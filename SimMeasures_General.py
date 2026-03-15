@@ -46,7 +46,7 @@ def merge_playlists(dict_pl):
 #make a csv file containing the frequency of each artist in playlist type
 #frequency = # of times artist occurs/total # of unique artists
 def artist_freq_report(playlist, title='report', pl_num=1):
-  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', '%s.csv'%(title))
+  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', 'artist reports', '%s.csv'%(title))
 
   try:
     with open(report_path, 'w', encoding='utf-8') as f:
@@ -72,7 +72,6 @@ def artist_comp_playlists(pl_a, pl_b):
   for artist in pl_a['Artist Name(s)'].unique():
     if artist in pl_b['Artist Name(s)'].unique():
       common += 1
-      print(artist)
 
   return (total_tracks - (2 * common), common)
 
@@ -81,7 +80,7 @@ def artist_comp_playlists(pl_a, pl_b):
 #return csv with similarity report between all playlists
 def artist_similarity_report(dict_pl, title='report'):
   pl_names = list(dict_pl.keys())
-  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', '%s.csv'%(title))
+  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', 'artist reports', '%s.csv'%(title))
 
   try:
     #encoding utf-8 necessary for pls with emojis in the title
@@ -104,7 +103,7 @@ def artist_similarity_report(dict_pl, title='report'):
 #make a csv file containing the frequency of each track in playlist type
 #frequency = # of times track occurs/total # of tracks
 def track_freq_report(playlist, title='report', pl_num=1):
-  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', '%s.csv'%(title))
+  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', 'track reports', '%s.csv'%(title))
 
   try:
     with open(report_path, 'w', encoding='utf-8') as f:
@@ -138,7 +137,7 @@ def track_comp_playlists(pl_a, pl_b):
 #return csv with similarity report between all playlists
 def track_similarity_report(dict_pl, title='report'):
   pl_names = list(dict_pl.keys())
-  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', '%s.csv'%(title))
+  report_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'reports', 'track reports', '%s.csv'%(title))
 
   try:
     #encoding utf-8 necessary for pls with emojis in the title
@@ -158,15 +157,99 @@ def track_similarity_report(dict_pl, title='report'):
     print('Similarity report for %s written to: %s'%(title, report_path))
 
 if __name__ == '__main__':
+    
+    #load playlists into dicts
+    barbenheimer = load_playlists('barbenheimer')
+    barbie = load_playlists('barbie')
+    oppenheimer = load_playlists('oppenheimer')
+    dms = load_playlists('dms')
+    reddit = load_playlists('reddit')
+    whiterun = load_playlists('whiterun')
+    rtg = load_playlists('roadtripgenre')
+    singalong = load_playlists('singalong')
+    
     #create a dictionary of playlists separated into different entries from a subpath
-    dict_pls = merge_dicts(load_playlists(subpath))
-    #create one dictionary of all playlists from a subpath
-    pls = merge_playlists(load_playlists(subpath))
+    dict_barb = merge_dicts([barbie, barbenheimer, oppenheimer])
+    dict_dnd = merge_dicts([dms, reddit, whiterun])
+    dict_rts = merge_dicts([singalong, rtg])
+    dict_all = merge_dicts([barbenheimer, barbie, oppenheimer, dms, reddit, whiterun, rtg, singalong])
+
     #generate artist similarity report
-    artist_similarity_report(dict_pls, title='Artist Comp')
-    #generate artist frequence report
-    artist_freq_report(pls, title='Artist Freq', pl_num=len(dict_pls.keys()))
+    artist_similarity_report(barbenheimer, title='Barbenheimer Artist Sim')
+    artist_similarity_report(barbie, title='Barbie Artist Sim')
+    artist_similarity_report(oppenheimer, title='Oppenheimer Artist Sim')
+    artist_similarity_report(dms, title='DMs Artist Sim')
+    artist_similarity_report(reddit, title='Reddit Artist Sim')
+    artist_similarity_report(whiterun, title='Whiterun Artist Sim')
+    artist_similarity_report(rtg, title='Roadtrip Genre Artist Sim')
+    artist_similarity_report(singalong, title='Singalong Artist Sim')
+
+    artist_similarity_report(dict_barb, title='Case Study #1 Artist Sim')
+    artist_similarity_report(dict_dnd, title='Case Study #2 Artist Sim')
+    artist_similarity_report(dict_rts, title='Case Study #3 Artist Sim')
+
+    artist_similarity_report(dict_all, title='All Playlists Artist Sim')
+
     #generate track similarity report
-    track_similarity_report(dict_pls, title='Track Comp')
+    track_similarity_report(barbenheimer, title='Barbenheimer Track Sim')
+    track_similarity_report(barbie, title='Barbie Track Sim')
+    track_similarity_report(oppenheimer, title='Oppenheimer Track Sim')
+    track_similarity_report(dms, title='DMs Track Sim')
+    track_similarity_report(reddit, title='Reddit Track Sim')
+    track_similarity_report(whiterun, title='Whiterun Track Sim')
+    track_similarity_report(rtg, title='Roadtrip Genre Track Sim')
+    track_similarity_report(singalong, title='Singalong Track Sim')
+
+    track_similarity_report(dict_barb, title='Case Study #1 Track Sim')
+    track_similarity_report(dict_dnd, title='Case Study #2 Track Sim')
+    track_similarity_report(dict_rts, title='Case Study #3 Track Sim')
+
+    track_similarity_report(dict_all, title='All Playlists Track Sim')
+    
+    #create one dictionary of all playlists from a subpath
+    barb_pls = merge_playlists(barbenheimer)
+    barbie_pls = merge_playlists(barbie)
+    op_pls = merge_playlists(oppenheimer)
+    dm_pls = merge_playlists(dms)
+    reddit_pls = merge_playlists(reddit)
+    whiterun_pls = merge_playlists(whiterun)
+    rtg_pls = merge_playlists(rtg)
+    singalong_pls = merge_playlists(singalong)
+
+    all_barb = merge_playlists(dict_barb)
+    all_dnd = merge_playlists(dict_dnd)
+    all_rts = merge_playlists(dict_rts)
+
+    all_pls = merge_playlists(dict_all)
+
+    #generate artist frequence report
+    artist_freq_report(barb_pls, title='Barbenheimer Artist Freq', pl_num=len(barbenheimer.keys()))
+    artist_freq_report(barbie_pls, title='Barbie Artist Freq', pl_num=len(barbie.keys()))
+    artist_freq_report(op_pls, title='Oppenheimer Artist Freq', pl_num=len(oppenheimer.keys()))
+    artist_freq_report(dm_pls, title='DMs Artist Freq', pl_num=len(dms.keys()))
+    artist_freq_report(reddit_pls, title='Reddit Artist Freq', pl_num=len(reddit.keys()))
+    artist_freq_report(whiterun_pls, title='Whiterun Artist Freq', pl_num=len(whiterun.keys()))
+    artist_freq_report(rtg_pls, title='Roadtrip Genre Artist Freq', pl_num=len(rtg.keys()))
+    artist_freq_report(singalong_pls, title='Singalong Artist Freq', pl_num=len(singalong.keys()))
+
+    artist_freq_report(all_barb, title='Case Study #1 Artist Freq', pl_num=len(dict_barb.keys()))
+    artist_freq_report(all_dnd, title='Case Study #2 Artist Freq', pl_num=len(dict_dnd.keys()))
+    artist_freq_report(all_rts, title='Case Study #3 Artist Freq', pl_num=len(dict_rts.keys()))
+
+    artist_freq_report(all_pls, title='All Pls Artist Freq', pl_num=len(dict_all.keys()))
+
     #generate track frequency report
-    track_freq_report(pls, title='Track Freq', pl_num=len(dict_pls.keys()))
+    track_freq_report(barb_pls, title='Barbenheimer Track Freq', pl_num=len(barbenheimer.keys()))
+    track_freq_report(barbie_pls, title='Barbie Track Freq', pl_num=len(barbie.keys()))
+    track_freq_report(op_pls, title='Oppenheimer Track Freq', pl_num=len(oppenheimer.keys()))
+    track_freq_report(dm_pls, title='DMs Track Freq', pl_num=len(dms.keys()))
+    track_freq_report(reddit_pls, title='Reddit Track Freq', pl_num=len(reddit.keys()))
+    track_freq_report(whiterun_pls, title='Whiterun Track Freq', pl_num=len(whiterun.keys()))
+    track_freq_report(rtg_pls, title='Roadtrip Genre Track Freq', pl_num=len(rtg.keys()))
+    track_freq_report(singalong_pls, title='Singalong Track Freq', pl_num=len(singalong.keys()))
+
+    track_freq_report(all_barb, title='Case Study #1 Track Freq', pl_num=len(dict_barb.keys()))
+    track_freq_report(all_dnd, title='Case Study #2 Track Freq', pl_num=len(dict_dnd.keys()))
+    track_freq_report(all_rts, title='Case Study #3 Track Freq', pl_num=len(dict_rts.keys()))
+
+    track_freq_report(all_pls, title='All Pls Track Freq', pl_num=len(dict_all.keys()))
