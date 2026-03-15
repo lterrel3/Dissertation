@@ -4,12 +4,10 @@ import pandas as pd
 import re
 from time import sleep
 
-#Before requesting from Spotify API, must pass area variables "SPOTIPY_CLIENT_ID" and "SPOTIPY_CLIENT_SECRET" 
+#Before requesting from Spotify API, must pass area variables in terminal "SPOTIPY_CLIENT_ID" and "SPOTIPY_CLIENT_SECRET" 
 #export SPOTIPY_CLIENT_ID='***'
 #export SPOTIPY_CLIENT_SECRET='***'
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
-#export SPOTIPY_CLIENT_ID='3d01299d5a2a4cbdb47983e6ba864e6e'
-#export SPOTIPY_CLIENT_SECRET='5b6fbcb9630444d4af6eab8039b8e42f'
 
 '''
 In playlist URL, URI is the numbers between "playlist/" and "?"
