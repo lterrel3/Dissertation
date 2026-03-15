@@ -1,0 +1,2380 @@
+artists,occurrence,freqency
+"blink-182",6,0.375000
+"Avril Lavigne",16,1.000000
+"Yellowcard",1,0.062500
+"Kelly Clarkson",17,1.062500
+"Bowling For Soup",3,0.187500
+"Lit",1,0.062500
+"Beyoncé,JAY-Z",3,0.187500
+"Backstreet Boys",20,1.250000
+"The Killers",13,0.812500
+"Carrie Underwood",14,0.875000
+"Sum 41",2,0.125000
+"Kesha",19,1.187500
+"Third Eye Blind",4,0.250000
+"Shaggy,Rayvon",1,0.062500
+"Weezer",12,0.750000
+"Miley Cyrus",29,1.812500
+"Sublime",6,0.375000
+"M.I.A.",5,0.312500
+"The All-American Rejects",8,0.500000
+"Michelle Branch",2,0.125000
+"Modest Mouse",1,0.062500
+"Uncle Kracker",1,0.062500
+"Katy Perry",34,2.125000
+"Sean Paul",5,0.312500
+"Barenaked Ladies",7,0.437500
+"Rihanna,JAY-Z",10,0.625000
+"Jimmy Eat World",8,0.500000
+"Phantom Planet",3,0.187500
+"Good Charlotte",3,0.187500
+"Eagle-Eye Cherry",1,0.062500
+"Britney Spears",36,2.250000
+"Harvey Danger",1,0.062500
+"Nelly",6,0.375000
+"Fall Out Boy",12,0.750000
+"Dr. Dre,Eminem",1,0.062500
+"Sugar Ray",4,0.250000
+"Lady Gaga",33,2.062500
+"Kings of Leon",14,0.875000
+"TLC",5,0.312500
+"Alanis Morissette",7,0.437500
+"Red Hot Chili Peppers",7,0.437500
+"Blessid Union Of Souls",1,0.062500
+"Justin Timberlake,Timbaland",4,0.250000
+"Gwen Stefani",5,0.312500
+"Blackstreet,Dr. Dre,Queen Pen",2,0.125000
+"P!nk",24,1.500000
+"My Chemical Romance",3,0.187500
+"The Offspring",3,0.187500
+"Outkast",16,1.000000
+"Missy Elliott",2,0.125000
+"Panic! At The Disco",11,0.687500
+"Eve 6",1,0.062500
+"Mary J. Blige",2,0.125000
+"Destiny's Child",7,0.437500
+"*NSYNC",9,0.562500
+"Spice Girls",12,0.750000
+"Meredith Brooks",2,0.125000
+"Arctic Monkeys",14,0.875000
+"Gnarls Barkley",3,0.187500
+"Jennifer Lopez,Jadakiss,Styles P",2,0.125000
+"Rihanna",79,4.937500
+"Christina Aguilera",10,0.625000
+"Jay Sean,Lil Wayne",5,0.312500
+"Keane",5,0.312500
+"Fergie",10,0.625000
+"Maroon 5",25,1.562500
+"Gwen Stefani,Eve",3,0.187500
+"Train",20,1.250000
+"Natasha Bedingfield",12,0.750000
+"KT Tunstall",2,0.125000
+"Chamillionaire,Krayzie Bone",2,0.125000
+"Taylor Swift",133,8.312500
+"Tal Bachman",3,0.187500
+"American Hi-Fi",1,0.062500
+"50 Cent",6,0.375000
+"The Goo Goo Dolls",7,0.437500
+"Plain White T's",5,0.312500
+"Nelly Furtado,Timbaland",5,0.312500
+"Fountains Of Wayne",5,0.312500
+"Snow Patrol",10,0.625000
+"Linkin Park",2,0.125000
+"Lupe Fiasco,Matthew Santos",1,0.062500
+"Vanessa Carlton",8,0.500000
+"Puddle Of Mudd",2,0.125000
+"Gorillaz,De La Soul",3,0.187500
+"Nine Days",2,0.125000
+"Jennifer Lopez",2,0.125000
+"Fastball",2,0.125000
+"Will Smith",2,0.125000
+"Hanson",1,0.062500
+"Everclear",2,0.125000
+"Sheryl Crow",3,0.187500
+"Fatboy Slim",4,0.250000
+"Smash Mouth",6,0.375000
+"Ben Harper And The Innocent Criminals",1,0.062500
+"T.I.,Rihanna",3,0.187500
+"New Radicals",2,0.125000
+"3 Doors Down",7,0.437500
+"Ashlee Simpson",1,0.062500
+"Shaggy,Rik Rok",3,0.187500
+"Amy Winehouse",6,0.375000
+"Flo Rida,T-Pain",6,0.375000
+"Evan And Jaron",1,0.062500
+"Incubus",1,0.062500
+"Colbie Caillat",1,0.062500
+"Nelly,City Spud",3,0.187500
+"Coldplay",30,1.875000
+"No Doubt",4,0.250000
+"Natalie Imbruglia",1,0.062500
+"The Ataris",1,0.062500
+"Matchbox Twenty",6,0.375000
+"Sara Bareilles",3,0.187500
+"T.I.",2,0.125000
+"Christina Aguilera,Lil' Kim,Mýa,P!nk",2,0.125000
+"Three Days Grace",3,0.187500
+"Nelly Furtado",8,0.500000
+"Beyoncé",15,0.937500
+"Finger Eleven",1,0.062500
+"Flo Rida,Kesha",4,0.250000
+"Justin Timberlake",17,1.062500
+"Green Day",5,0.312500
+"Missy Elliott,Ciara,Fatman Scoop",1,0.062500
+"Cascada",5,0.312500
+"The Fray",10,0.625000
+"Franz Ferdinand",2,0.125000
+"Snoop Dogg,Pharrell Williams",2,0.125000
+"Jewel",1,0.062500
+"Switchfoot",1,0.062500
+"AFI",1,0.062500
+"Jason Derulo",29,1.812500
+"LEN",1,0.062500
+"Sean Kingston",17,1.062500
+"Mandy Moore",3,0.187500
+"DJ Sammy,Yanou,Do",1,0.062500
+"Pras,Ol' Dirty Bastard,Mýa",1,0.062500
+"Limp Bizkit",2,0.125000
+"Black Eyed Peas",25,1.562500
+"Owl City",8,0.500000
+"Kid Cudi",5,0.312500
+"Corinne Bailey Rae",2,0.125000
+"Ludacris,Shawnna",1,0.062500
+"Gavin DeGraw",3,0.187500
+"The Corrs",1,0.062500
+"The Mighty Mighty Bosstones",1,0.062500
+"Outkast,Sleepy Brown",1,0.062500
+"Blu Cantrell",1,0.062500
+"John Mayer",7,0.437500
+"Faith Hill",5,0.312500
+"Marc Anthony",1,0.062500
+"Ja Rule,Ashanti",1,0.062500
+"Citizen King",1,0.062500
+"No Doubt,Bounty Killer",1,0.062500
+"Fat Joe,Ja Rule,Ashanti",1,0.062500
+"Rihanna,Sean Paul",1,0.062500
+"Semisonic",1,0.062500
+"Nelly,Kelly Rowland",2,0.125000
+"Crazy Town",1,0.062500
+"Missy Elliott,Ludacris",1,0.062500
+"Baby Bash,Frankie J",4,0.250000
+"Santana,Michelle Branch",1,0.062500
+"Evanescence",3,0.187500
+"Kelis",1,0.062500
+"Everlast",1,0.062500
+"Ciara,Missy Elliott",3,0.187500
+"Justin Timberlake,T.I.",2,0.125000
+"Anna Nalick",2,0.125000
+"Eminem",11,0.687500
+"Matt Nathanson",1,0.062500
+"Feist",1,0.062500
+"Counting Crows",3,0.187500
+"Wheatus",3,0.187500
+"Liz Phair",1,0.062500
+"Hilary Duff",3,0.187500
+"OK Go",2,0.125000
+"Chumbawamba",1,0.062500
+"Gwen Stefani,Akon",2,0.125000
+"JAY-Z",1,0.062500
+"The White Stripes",5,0.312500
+"Blackstreet,Mýa,Mase,Blinky Blink",1,0.062500
+"CAKE",1,0.062500
+"Dr. Dre,Snoop Dogg",3,0.187500
+"Aaliyah",1,0.062500
+"Jennifer Lopez,FISHER",1,0.062500
+"Fuel",1,0.062500
+"Mýa",1,0.062500
+"BBMAK",1,0.062500
+"A Touch Of Class,Pete Konemann",1,0.062500
+"Daniel Powter",3,0.187500
+"3LW",1,0.062500
+"Lifehouse",2,0.125000
+"Shakira",5,0.312500
+"Kylie Minogue",4,0.250000
+"The Red Jumpsuit Apparatus",2,0.125000
+"JoJo",7,0.437500
+"Terror Squad,Fat Joe,Remy Ma",1,0.062500
+"Ciara,Petey Pablo",1,0.062500
+"John Legend",5,0.312500
+"Akon,Eminem",3,0.187500
+"Saving Jane",1,0.062500
+"Howie Day",1,0.062500
+"T-Pain,Yung Joc",3,0.187500
+"Norah Jones",1,0.062500
+"The Pussycat Dolls,Busta Rhymes",2,0.125000
+"Kevin Rudolf,Lil Wayne",3,0.187500
+"The Click Five",1,0.062500
+"T-Pain,Mike Jones",1,0.062500
+"Beyoncé,Bun B,Slim Thug",1,0.062500
+"Three 6 Mafia,Project Pat",1,0.062500
+"Alicia Keys",11,0.687500
+"BOYS LIKE GIRLS",1,0.062500
+"311",1,0.062500
+"Timbaland,Keri Hilson,D.O.E.",4,0.250000
+"Macy Gray",2,0.125000
+"Baby Bash,T-Pain",1,0.062500
+"Vertical Horizon",1,0.062500
+"Nickelback",6,0.375000
+"Lady Gaga,Colby O'Donis",4,0.250000
+"Olivia Rodrigo",45,2.812500
+"Conan Gray",16,1.000000
+"Sabrina Carpenter",40,2.500000
+"Lana Del Rey",24,1.500000
+"Adele",25,1.562500
+"Sarah Jeffery,Disney",2,0.125000
+"Tate McRae",15,0.937500
+"Ross Lynch,Jason Evigan,Grace Phipps",2,0.125000
+"Harry Styles",11,0.687500
+"Billie Eilish",38,2.375000
+"Ashe,Niall Horan",1,0.062500
+"Jung Kook,DJ Snake",1,0.062500
+"Nessa Barrett",3,0.187500
+"Ashe",1,0.062500
+"Jung Kook",5,0.312500
+"Dove Cameron",6,0.375000
+"Dove Cameron,Disney",2,0.125000
+"Kristen Bell,Idina Menzel",1,0.062500
+"Ross Lynch,Maia Mitchell",1,0.062500
+"Ariana Grande",49,3.062500
+"Dove Cameron,Sofia Carson,Cameron Boyce,Booboo Stewart,China Anne McClain,Mitchell Hope,Thomas Doherty,Dylan Playfair,Disney",2,0.125000
+"SZA",31,1.937500
+"Demi Lovato",15,0.937500
+"EMELINE",1,0.062500
+"TOMORROW X TOGETHER",30,1.875000
+"Grace Phipps",2,0.125000
+"Leyla Blue",1,0.062500
+"Jeff Lewis,Mitchell Hope,Disney",1,0.062500
+"Jung Kook,Latto",1,0.062500
+"TOMORROW X TOGETHER,Anitta",1,0.062500
+"Doja Cat",7,0.437500
+"Charlie Puth,Jung Kook,BTS",1,0.062500
+"Ross Lynch",1,0.062500
+"Bridgit Mendler",9,0.562500
+"Eminem,Rihanna",6,0.375000
+"mansionz,Spark Master Tape",1,0.062500
+"Christian Nodal",1,0.062500
+"OneRepublic",14,0.875000
+"Pharrell Williams",4,0.250000
+"DNCE",4,0.250000
+"MAGIC!",4,0.250000
+"Christina Perri",3,0.187500
+"Justin Bieber",20,1.250000
+"Everybody Loves an Outlaw",2,0.125000
+"Meghan Trainor",9,0.562500
+"Nicki Minaj",28,1.750000
+"Sean Paul,Dua Lipa",4,0.250000
+"John Travolta,Olivia Newton-John",5,0.312500
+"Meghan Trainor,John Legend",2,0.125000
+"Justin Bieber,Ludacris",8,0.500000
+"Julia Michaels",3,0.187500
+"Sam Smith,Kim Petras",3,0.187500
+"Elley Duhé",1,0.062500
+"Selena Gomez",11,0.687500
+"Ruth B.",3,0.187500
+"TOMORROW X TOGETHER,Jonas Brothers",1,0.062500
+"undefined",21,1.312500
+"Taylor Swift,HAIM",1,0.062500
+"Halsey,SUGA",1,0.062500
+"Selena Gomez & The Scene",6,0.375000
+"Russ,Bibi Bourelly",2,0.125000
+"Russ",7,0.437500
+"Shawn Mendes",15,0.937500
+"Shawn Mendes,Camila Cabello",2,0.125000
+"Milo j,Yahritza Y Su Esencia",1,0.062500
+"Madison Beer",2,0.125000
+"Olivia Rodrigo,Disney",1,0.062500
+"Fabio Capri",1,0.062500
+"Benson Boone",2,0.125000
+"salem ilese,TOMORROW X TOGETHER,Alan Walker",1,0.062500
+"Hotel Ugly",1,0.062500
+"Jimin",1,0.062500
+"Chappell Roan",22,1.375000
+"Johnny Orlando",4,0.250000
+"Ivan Cornejo",3,0.187500
+"Melanie Martinez",2,0.125000
+"Quavo,Lana Del Rey",1,0.062500
+"Gracie Abrams",18,1.125000
+"RAYE,070 Shake",3,0.187500
+"Kali Uchis",1,0.062500
+"NERIAH",1,0.062500
+"WILLOW,Travis Barker",1,0.062500
+"Lauren Spencer Smith",2,0.125000
+"Sunflower Bean",1,0.062500
+"Tom Odell",2,0.125000
+"Addison Rae",2,0.125000
+"Tristan",1,0.062500
+"Olly Alexander (Years & Years)",3,0.187500
+"The Marías",1,0.062500
+"YEONJUN",2,0.125000
+"Lola Young",4,0.250000
+"Lexi Jayde",1,0.062500
+"Mariah Carey",4,0.250000
+"TOMORROW X TOGETHER,Seori",1,0.062500
+"Lana Del Rey,Tommy Genesis",1,0.062500
+"Selena Gomez,benny blanco",2,0.125000
+"Selena Gomez,benny blanco,Gracie Abrams",1,0.062500
+"Alex & Sierra",1,0.062500
+"nan",0,0.000000
+"Xavi,Manuel Turizo",1,0.062500
+"Alexander Stewart",1,0.062500
+"J Balvin",1,0.062500
+"Selena Gomez,benny blanco,The Marías",1,0.062500
+"Daniel Caesar,Brandy",1,0.062500
+"J Hus,Drake",1,0.062500
+"Jungle",6,0.375000
+"GROOVY,B Jack$",1,0.062500
+"Brent Faiyaz",13,0.812500
+"Saint Levant,MC Abdul",1,0.062500
+"daniell,caesar",1,0.062500
+"Saint Levant",7,0.437500
+"Andrea Bocelli",1,0.062500
+"PARTYNEXTDOOR",26,1.625000
+"Amaarae,Kali Uchis,MOLIY",1,0.062500
+"leeron",2,0.125000
+"leeron,Roy William",1,0.062500
+"Roy William,leeron",1,0.062500
+"DESTIN CONRAD",1,0.062500
+"Saint Levant,Sol Band",1,0.062500
+"Saint Levant,TIF",1,0.062500
+"Saint Levant,Cheb Bilal",1,0.062500
+"Saint Levant,Kehlani",1,0.062500
+"Roy William,BR!X",1,0.062500
+"Asal",1,0.062500
+"Luke Combs",6,0.375000
+"June Freedom",2,0.125000
+"June Freedom,Elji Beatzkilla",1,0.062500
+"Morgan Wallen",2,0.125000
+"June Freedom,Naïka",2,0.125000
+"Cassie",1,0.062500
+"Muni Long",1,0.062500
+"The Weeknd",21,1.312500
+"Marvin Gaye",3,0.187500
+"Sade",3,0.187500
+"The Weeknd,Playboi Carti",1,0.062500
+"Mustafa",5,0.312500
+"GIVĒON",12,0.750000
+"Jhené Aiko,H.E.R.",2,0.125000
+"Bryson Tiller",13,0.812500
+"Charlie Jeer",2,0.125000
+"SIENNA SPIRO",1,0.062500
+"Adam Melchor",1,0.062500
+"Clara La San",1,0.062500
+"Chris Brown",7,0.437500
+"Tyla,Becky G",1,0.062500
+"Yarden",1,0.062500
+"Ciara,Chamillionaire",1,0.062500
+"Tyla",1,0.062500
+"Bayou,yef",1,0.062500
+"Duckwrth,Kojey Radical",1,0.062500
+"Camila Cabello,Drake",1,0.062500
+"Frank Ocean",28,1.750000
+"Fei Yu-ching",1,0.062500
+"KAYTRANADA,Craig David",1,0.062500
+"IAMDDB",1,0.062500
+"Noah Cyrus",2,0.125000
+"Blaiz Fayah,Maureen,Dj Glad",1,0.062500
+"Doechii",4,0.250000
+"Sonder",7,0.437500
+"SZA,Kendrick Lamar",2,0.125000
+"Drake,Tems",1,0.062500
+"Magdalena Bay",1,0.062500
+"Bruno Mars,Anderson .Paak,Silk Sonic",6,0.375000
+"SAILORR,Summer Walker",1,0.062500
+"Hope",1,0.062500
+"Ayra Starr,GIVĒON",1,0.062500
+"Victoria Monét",2,0.125000
+"Olivia Dean",1,0.062500
+"Cherub",1,0.062500
+"PARTYNEXTDOOR,Drake,Chino Pacas",2,0.125000
+"PARTYNEXTDOOR,Drake,Yebba",1,0.062500
+"June Freedom,Jaz Karis",1,0.062500
+"Bayou",1,0.062500
+"Drake",28,1.750000
+"Tate McRae,Flo Milli",1,0.062500
+"Paris Paloma",3,0.187500
+"Hailey Knox",3,0.187500
+"Kendrick Lamar",6,0.375000
+"Keyshia Cole",1,0.062500
+"Fleetwood Mac",29,1.812500
+"Lady Gaga,Bruno Mars",2,0.125000
+"Ed Sheeran",27,1.687500
+"Guns N' Roses",2,0.125000
+"Mark Ronson,Bruno Mars",5,0.312500
+"Rascal Flatts",6,0.375000
+"Luke Bryan",6,0.375000
+"Candace",1,0.062500
+"2Pac,Roger,Dr. Dre",3,0.187500
+"Kendrick Lamar,SZA",6,0.375000
+"Iam Tongi,James Blunt",1,0.062500
+"Paper Tongues",1,0.062500
+"One Direction",32,2.000000
+"AC/DC",9,0.562500
+"Nirvana",4,0.250000
+"Creed",1,0.062500
+"Auli'i Cravalho,Disney",3,0.187500
+"Donny Osmond,Chorus - Mulan,Disney",3,0.187500
+"Nathan Lane,Ernie Sabella,Jason Weaver,Joseph Williams",3,0.187500
+"Christopher Jackson,Rachel House,Nicole Scherzinger,Auli'i Cravalho,Louise Bush,Disney",2,0.125000
+"Dwayne Johnson,Disney",3,0.187500
+"Mandy Moore,Zachary Levi",1,0.062500
+"Stephanie Beatriz,Olga Merediz,Encanto - Cast",2,0.125000
+"Daya",4,0.250000
+"Sebastian Yatra",1,0.062500
+"Roger Bart,Disney",2,0.125000
+"Post Malone,Morgan Wallen",3,0.187500
+"Noah Kahan",13,0.812500
+"Naomi Scott",2,0.125000
+"Adam Hicks,Bridgit Mendler,Naomi Scott,Hayley Kiyoko",2,0.125000
+"Paramore",17,1.062500
+"Hugh Jackman,The Greatest Showman Ensemble",1,0.062500
+"Rihanna,Mikky Ekko",6,0.375000
+"JVKE",4,0.250000
+"Susan Egan,Cheryl Freeman,LaChanze,Vaneese Thomas,Lillias White,Disney",1,0.062500
+"Jonas Brothers",7,0.437500
+"Donna Murphy",2,0.125000
+"Future,Metro Boomin,Kendrick Lamar",1,0.062500
+"Jonathan Groff",1,0.062500
+"Justin Bieber,Nicki Minaj",5,0.312500
+"Fergie,will.i.am",4,0.250000
+"Pat Benatar",7,0.437500
+"Don Henley",3,0.187500
+"Eagles",9,0.562500
+"Foreigner",2,0.125000
+"Earth, Wind & Fire",4,0.250000
+"Tears For Fears",5,0.312500
+"Noah Kahan,Post Malone",1,0.062500
+"Soulja Boy",5,0.312500
+"Blondie",3,0.187500
+"USHER,Lil Jon,Ludacris",4,0.250000
+"Ryan Gosling",1,0.062500
+"Nicki Minaj,Ice Spice,Aqua",1,0.062500
+"Laufey",2,0.125000
+"Meryl Streep,Julie Walters,Christine Baranski",2,0.125000
+"VeggieTales",1,0.062500
+"Dr. Doofenshmirtz",1,0.062500
+"Vanilla Ice",3,0.187500
+"The Muppets",1,0.062500
+"Beastie Boys",1,0.062500
+"Animaniacs",1,0.062500
+"AsapSCIENCE",1,0.062500
+"The Barden Bellas",2,0.125000
+"The Barden Bellas,The Treblemakers,The Bu Harmonics",2,0.125000
+"Cynthia Erivo,Ariana Grande",2,0.125000
+"Bruno Mars",28,1.750000
+"Aerosmith",8,0.500000
+"Foo Fighters",4,0.250000
+"Vance Joy",16,1.000000
+"Stealers Wheel",2,0.125000
+"Blue Öyster Cult",1,0.062500
+"Carolina Gaitán,Mauro Castillo,Adassa,Rhenzy Feliz,Diane Guerrero,Stephanie Beatriz,Encanto - Cast",2,0.125000
+"Ariana Grande,Cynthia Erivo",1,0.062500
+"Sixpence None The Richer",1,0.062500
+"The Cranberries",2,0.125000
+"Yuno Miles",1,0.062500
+"USHER,Pitbull",9,0.562500
+"Tom Petty",2,0.125000
+"Billy Joel",18,1.125000
+"Rick Springfield",4,0.250000
+"Tonic",1,0.062500
+"Migos",1,0.062500
+"Migos,Lil Uzi Vert",2,0.125000
+"Troy,Disney",1,0.062500
+"The Doobie Brothers",1,0.062500
+"Migos,Drake",1,0.062500
+"Kansas",1,0.062500
+"Dexys Midnight Runners",4,0.250000
+"Shakira,Wyclef Jean",5,0.312500
+"Journey",7,0.437500
+"The Chainsmokers,Halsey",3,0.187500
+"CeeLo Green,Jack Black",1,0.062500
+"Bon Jovi",9,0.562500
+"Aqua",2,0.125000
+"ROSÉ,Bruno Mars",1,0.062500
+"Ed Helms,The Lorax Singers",1,0.062500
+"Rick Astley",2,0.125000
+"Michael Jackson",26,1.625000
+"Living Colour",1,0.062500
+"Downstait",1,0.062500
+"Joan Jett & the Blackhearts",4,0.250000
+"Survivor",3,0.187500
+"Katy Perry,Snoop Dogg",8,0.500000
+"ABBA",17,1.062500
+"Clean Bandit,Zara Larsson",3,0.187500
+"Suki Waterhouse",2,0.125000
+"Genesis",1,0.062500
+"Butthole Surfers",1,0.062500
+"will.i.am",3,0.187500
+"Taylor Swift,Kendrick Lamar",1,0.062500
+"USHER",3,0.187500
+"Ricky Martin",3,0.187500
+"The Gregory Brothers",1,0.062500
+"Baby Keem,Kendrick Lamar",1,0.062500
+"Zac Efron,Zendaya",1,0.062500
+"Ziv Zaifman,Hugh Jackman,Michelle Williams",1,0.062500
+"Keala Settle,The Greatest Showman Ensemble",1,0.062500
+"A.J. & Big Justice",1,0.062500
+"Jake Paul,Team 10",1,0.062500
+"川子",1,0.062500
+"The Lumineers",17,1.062500
+"Shania Twain",22,1.375000
+"Lauv",2,0.125000
+"Mark Ambor",1,0.062500
+"Ed Sheeran,Khalid",1,0.062500
+"Of Monsters and Men",8,0.500000
+"Creedence Clearwater Revival",10,0.625000
+"Jonathan Bailey,Ariana Grande,Ethan Slater,Marissa Bode,Cynthia Erivo",1,0.062500
+"John Williams,London Symphony Orchestra",2,0.125000
+"Boney M.",6,0.375000
+"DJ GreyttBlack",1,0.062500
+"Bad Lip Reading",1,0.062500
+"Starship",4,0.250000
+"The Police",7,0.437500
+"Stevie Nicks",5,0.312500
+"Stephen Schwartz,Kristin Chenoweth,Idina Menzel,Stephen Oremus",1,0.062500
+"Loren Allred",1,0.062500
+"Rachel Platten",1,0.062500
+"Hugh Jackman,Zac Efron",1,0.062500
+"Idina Menzel",1,0.062500
+"Hugh Jackman,Keala Settle,Daniel Everidge,Zendaya,The Greatest Showman Ensemble",1,0.062500
+"Troy,Gabriella,Disney",3,0.187500
+"Phil Collins",15,0.937500
+"Céline Dion",4,0.250000
+"Lizzy McAlpine",2,0.125000
+"Phoebe Bridgers",2,0.125000
+"Candace,Vanessa",1,0.062500
+"Diane Guerrero,Stephanie Beatriz",2,0.125000
+"Love Händel",1,0.062500
+"Phineas,Bobby Fabulous",1,0.062500
+"The Lorax Singers,Jenny Slate,Betty White,Rob Riggle",1,0.062500
+"Stephanie Beatriz",2,0.125000
+"Jason Segel,Walter",1,0.062500
+"The Muppets,Joanna Newsom",1,0.062500
+"Jason Weaver,Rowan Atkinson,Laura Williams",3,0.187500
+"Samuel E. Wright,Disney",2,0.125000
+"Phil Harris,Bruce Reitherman",2,0.125000
+"Little Ditto",1,0.062500
+"Cast - Sofia the First,Disney Junior,Sofia",1,0.062500
+"China Anne McClain",1,0.062500
+"TV Theme Band",1,0.062500
+"The Duck",1,0.062500
+"Burger King",1,0.062500
+"JellyBug",1,0.062500
+"They Might Be Giants (For Kids),Disney Junior",1,0.062500
+"Charlie Puth,Selena Gomez",2,0.125000
+"Angela Lansbury,Jerry Orbach,Chorus - Beauty And the Beast,Disney",1,0.062500
+"The Backyardigans",1,0.062500
+"Idina Menzel,AURORA",2,0.125000
+"Silver",1,0.062500
+"The Neighbourhood",4,0.250000
+"Neon Trees",7,0.437500
+"Kyle Gordon,Kody Redwing and The Broken Hearts",1,0.062500
+"Duran Duran",3,0.187500
+"Simple Minds",3,0.187500
+"Heart",3,0.187500
+"The Smashing Pumpkins",1,0.062500
+"Men At Work",6,0.375000
+"TOTO",8,0.500000
+"Metallica",1,0.062500
+"Wang Chung",2,0.125000
+"Dominic Fike",3,0.187500
+"Metro Boomin,Coi Leray",1,0.062500
+"Post Malone,Swae Lee",2,0.125000
+"Bluey",1,0.062500
+"Alessia Cara",4,0.250000
+"alt-J",4,0.250000
+"Andrew McMahon in the Wilderness",2,0.125000
+"Andy Grammer",5,0.312500
+"Arcade Fire",3,0.187500
+"Arkells",24,1.500000
+"Aslove,Mia Wray",1,0.062500
+"The Avett Brothers",1,0.062500
+"Avicii",19,1.187500
+"Bahamas",6,0.375000
+"Barenaked Ladies,Ben Grosse",1,0.062500
+"Bastille",5,0.312500
+"Ben Howard",2,0.125000
+"Ben Lee",1,0.062500
+"Ben Rector",2,0.125000
+"Birdy",1,0.062500
+"The Black Keys",6,0.375000
+"Blue Rodeo",2,0.125000
+"Blue Swede,Björn Skifs",1,0.062500
+"Bob Schneider",2,0.125000
+"BØRNS",11,0.687500
+"Boy & Bear",3,0.187500
+"Brad Paisley",1,0.062500
+"Branches,Tsutro",1,0.062500
+"Brett Eldredge",1,0.062500
+"The Brothers Comatose",1,0.062500
+"Bruce Springsteen",5,0.312500
+"Bryan Adams,Melanie C",2,0.125000
+"Bryan Adams",11,0.687500
+"Bryce Vine",1,0.062500
+"Caamp",1,0.062500
+"Cage The Elephant",8,0.500000
+"Calvin Harris,Disciples",3,0.187500
+"Calvin Harris,Florence Welch",1,0.062500
+"Calvin Harris,Frank Ocean,Migos",1,0.062500
+"Camila Cabello",5,0.312500
+"Capital Cities",3,0.187500
+"Cash Cash,Bebe Rexha",1,0.062500
+"Cereus Bright",1,0.062500
+"The Chainsmokers,Coldplay",3,0.187500
+"The Chainsmokers,ROZES",3,0.187500
+"Charlie Puth",3,0.187500
+"Nick Murphy",1,0.062500
+"CHVRCHES",3,0.187500
+"City and Colour",1,0.062500
+"Coast Modern",3,0.187500
+"Cobi",1,0.062500
+"Cœur De Pirate",1,0.062500
+"Cold War Kids",2,0.125000
+"Coldplay,Rihanna",1,0.062500
+"The Cure",2,0.125000
+"Daryl Hall & John Oates",9,0.562500
+"Death Cab for Cutie",6,0.375000
+"Dierks Bentley",3,0.187500
+"Disclosure,Sam Smith",3,0.187500
+"Disclosure,Lorde",1,0.062500
+"Drake,Wizkid,Kyla",1,0.062500
+"DYAN",1,0.062500
+"Smallpools",2,0.125000
+"Kodaline,Syn Cole",1,0.062500
+"Foster The People",6,0.375000
+"AJR,Rivers Cuomo",2,0.125000
+"Samm Henshaw",1,0.062500
+"Portugal. The Man",5,0.312500
+"Crystal Fighters",1,0.062500
+"Step Rockets",1,0.062500
+"Meg Mac",1,0.062500
+"Tall Heights",4,0.250000
+"Peter Bjorn and John",1,0.062500
+"MØ",2,0.125000
+"Two Door Cinema Club,RAC",1,0.062500
+"Slaters,Toulouse",1,0.062500
+"BANNERS",3,0.187500
+"A R I Z O N A",5,0.312500
+"Animal Years",1,0.062500
+"The Sheepdogs",4,0.250000
+"Motel Radio",1,0.062500
+"Nathaniel Rateliff & The Night Sweats",2,0.125000
+"Maggie Rogers",13,0.812500
+"Cody Fry",1,0.062500
+"The Kooks",4,0.250000
+"Annie Lennox",1,0.062500
+"Urban Cone",1,0.062500
+"The Mowgli's",2,0.125000
+"StayLoose,Nick Leng",1,0.062500
+"Ella Vos",1,0.062500
+"RAC,Katie Herzig",1,0.062500
+"Mumford & Sons",25,1.562500
+"King Princess",1,0.062500
+"Billy Raffoul",1,0.062500
+"Elijah Woods x Jamie Fine",1,0.062500
+"WILD",1,0.062500
+"Jon Bellion",3,0.187500
+"The Head And The Heart",14,0.875000
+"Hozier",12,0.750000
+"Anderson East",1,0.062500
+"Drew Holcomb & The Neighbors",1,0.062500
+"Tom Odell,Zwette",1,0.062500
+"Ellie Goulding",9,0.562500
+"Jet",4,0.250000
+"Reuben And The Dark",2,0.125000
+"Mt. Joy",2,0.125000
+"KALEO",4,0.250000
+"Two Door Cinema Club",1,0.062500
+"Hippo Campus",1,0.062500
+"Sarah Harmer",1,0.062500
+"Yoke Lore",3,0.187500
+"Elton John",16,1.000000
+"Sofi Tukker,NERVO,The Knocks,ALISA UENO",1,0.062500
+"Mat Kearney,AFSHEEN",1,0.062500
+"Jodie Mitchell",1,0.062500
+"Jaymes Young",3,0.187500
+"Sam Hunt",7,0.437500
+"Saint Motel",5,0.312500
+"Old Dominion",3,0.187500
+"S Club",2,0.125000
+"lovelytheband",3,0.187500
+"George Ezra",6,0.375000
+"The Foundations",2,0.125000
+"Regina Spektor",1,0.062500
+"JOSEPH",1,0.062500
+"Foy Vance",5,0.312500
+"Matt Simons,Deepend",1,0.062500
+"Ezra Vine",1,0.062500
+"The 1975",2,0.125000
+"Mating Ritual,Lizzy Land",1,0.062500
+"Josiah and the Bonnevilles",1,0.062500
+"Urban Cone,Tove Lo",1,0.062500
+"Jeremy Zucker",2,0.125000
+"Leon Bridges",2,0.125000
+"Flight Facilities",1,0.062500
+"Matt Maeson",3,0.187500
+"Youth Group",2,0.125000
+"Toploader",2,0.125000
+"The Weeknd,Ed Sheeran",1,0.062500
+"LU KALA",1,0.062500
+"Florence + The Machine",5,0.312500
+"Sylvan Esso",2,0.125000
+"Muse",2,0.125000
+"The Contours",1,0.062500
+"Zara Larsson",7,0.437500
+"Kai Straw",1,0.062500
+"Oh Wonder",6,0.375000
+"James Vincent McMorrow",2,0.125000
+"Handsome Ghost,Whole Doubts",1,0.062500
+"Mat Kearney",5,0.312500
+"Tracy Chapman",3,0.187500
+"Robert DeLong,K.Flay",1,0.062500
+"Tame Impala",5,0.312500
+"Selena Gomez,Gucci Mane",1,0.062500
+"James Taylor",2,0.125000
+"San Cisco",1,0.062500
+"Jukebox The Ghost",1,0.062500
+"Kacey Musgraves",4,0.250000
+"Selena Gomez,A$AP Rocky",1,0.062500
+"Lake Street Dive",2,0.125000
+"HONNE",2,0.125000
+"Lorde",11,0.687500
+"Empire Of The Sun",4,0.250000
+"Edward Sharpe & The Magnetic Zeros",7,0.437500
+"Alessia Cara,Disney",1,0.062500
+"Star & Micey",1,0.062500
+"Two Feet",1,0.062500
+"Elohim",1,0.062500
+"Mating Ritual",1,0.062500
+"The Proclaimers",3,0.187500
+"Panama Wedding,Bee's Knees",1,0.062500
+"Kygo,Selena Gomez",2,0.125000
+"Louis The Child,K.Flay",1,0.062500
+"Imagine Dragons",10,0.625000
+"Klingande",1,0.062500
+"Saint Mesa",1,0.062500
+"Rudimental,Ed Sheeran",1,0.062500
+"Vance Joy,Said The Sky",1,0.062500
+"Thomas Rhett,Martin Jensen",1,0.062500
+"GROUPLOVE",3,0.187500
+"Cold War Kids,Bishop Briggs",1,0.062500
+"Children of Indigo",1,0.062500
+"Miley Cyrus,Tiësto",1,0.062500
+"Lou Bega",2,0.125000
+"Francis and the Lights,Chance the Rapper",1,0.062500
+"Mat Kearney,RAC",1,0.062500
+"Zedd,Maren Morris,Grey",2,0.125000
+"Mother Mother",3,0.187500
+"The Temptations",3,0.187500
+"MisterWives",2,0.125000
+"Camila Cabello,Kane Brown",1,0.062500
+"Joe Hertler & The Rainbow Seekers",1,0.062500
+"bülow",1,0.062500
+"The Trews",1,0.062500
+"The Cat Empire",1,0.062500
+"The Beatles",17,1.062500
+"Shakey Graves",2,0.125000
+"Generationals",2,0.125000
+"Frankie Valli & The Four Seasons",2,0.125000
+"Four Tops",1,0.062500
+"Geordie Kieffer",1,0.062500
+"Childish Gambino",11,0.687500
+"Maren Morris",6,0.375000
+"Fitz and The Tantrums",4,0.250000
+"Houndmouth",1,0.062500
+"Future,Rihanna",1,0.062500
+"Mumm-ra",1,0.062500
+"Jack Johnson",2,0.125000
+"Seafret",2,0.125000
+"Keith Urban",19,1.187500
+"Michael Franti & Spearhead",1,0.062500
+"Ben E. King",4,0.250000
+"Zedd,Alessia Cara",1,0.062500
+"Justin Timberlake,JAY-Z",2,0.125000
+"Judah & the Lion",3,0.187500
+"LFO",1,0.062500
+"The Weakerthans",1,0.062500
+"Whethan,Oh Wonder",1,0.062500
+"Young the Giant",2,0.125000
+"Alex Cruz,Gabbi Lieve",1,0.062500
+"a-ha",4,0.250000
+"Jason Derulo,2 Chainz",3,0.187500
+"Mumford & Sons,Baaba Maal",1,0.062500
+"Joel Plaskett",1,0.062500
+"LÉON",1,0.062500
+"Zac Brown Band",4,0.250000
+"The Wombats",1,0.062500
+"James Bay",6,0.375000
+"Old Crow Medicine Show",1,0.062500
+"Chelsea Cutler,Sondr",1,0.062500
+"Miguel,Kacey Musgraves",1,0.062500
+"Langhorne Slim,The Law",1,0.062500
+"Jaymes Young,Phoebe Ryan",1,0.062500
+"flor",1,0.062500
+"Coasts",1,0.062500
+"Jason Derulo,Snoop Dogg",1,0.062500
+"Yusuf / Cat Stevens",4,0.250000
+"The Revivalists",1,0.062500
+"Bronze Radio Return",1,0.062500
+"Mumford & Sons,Baaba Maal,The Very Best,Beatenberg",1,0.062500
+"Morgan Saint",1,0.062500
+"Paul Simon",3,0.187500
+"Panama Wedding",1,0.062500
+"Jackie Wilson",1,0.062500
+"The Jackson 5",6,0.375000
+"Redbone",2,0.125000
+"The Five Stairsteps",1,0.062500
+"Marvin Gaye,Tammi Terrell",1,0.062500
+"George Harrison",2,0.125000
+"Jay & The Americans",1,0.062500
+"Natalie Cole",1,0.062500
+"Bob Seger",2,0.125000
+"Stevie Wonder",6,0.375000
+"Sam Cooke",1,0.062500
+"Van Morrison",3,0.187500
+"Steve Winwood",1,0.062500
+"The Romantics",2,0.125000
+"Lea Salonga,Brad Kane,Disney",1,0.062500
+"Judy Kuhn",3,0.187500
+"Roger Bart",1,0.062500
+"Jubël,NEIMY",1,0.062500
+"Grace VanderWaal",1,0.062500
+"Tommy James & The Shondells",1,0.062500
+"Frankie Valli",2,0.125000
+"Bombargo",1,0.062500
+"John Denver",2,0.125000
+"The Chicks",5,0.312500
+"why mona",1,0.062500
+"The Lost Boys",1,0.062500
+"Lizzo",13,0.812500
+"Stephen Day",1,0.062500
+"Bolier",1,0.062500
+"Wildcat! Wildcat!",1,0.062500
+"Mattiel",1,0.062500
+"Rainbow Kitten Surprise",3,0.187500
+"Robyn",4,0.250000
+"Passion Pit",1,0.062500
+"The Strokes",1,0.062500
+"The O'Jays",1,0.062500
+"Dermot Kennedy",1,0.062500
+"Lionel Richie",1,0.062500
+"Thomas Rhett",3,0.187500
+"Alabama Shakes",3,0.187500
+"Juke Ross,James Carter",1,0.062500
+"Queen",21,1.312500
+"Sam Feldt,Yves V,ROZES",1,0.062500
+"The Fratellis",1,0.062500
+"Frog",1,0.062500
+"Wingtip",1,0.062500
+"Freddie Scott",1,0.062500
+"The RT's",1,0.062500
+"Ed Sheeran,Justin Bieber",1,0.062500
+"Passion Pit,Galantis",1,0.062500
+"Andy Grammer,Ladysmith Black Mambazo",1,0.062500
+"The Rocket Summer",1,0.062500
+"Ezra Jordan",1,0.062500
+"Noah And The Whale,Anna Calvi",1,0.062500
+"Whitney Houston",10,0.625000
+"SHAED",1,0.062500
+"Sasha Alex Sloan",1,0.062500
+"Alok,iRO",1,0.062500
+"Wild Rivers",1,0.062500
+"FINNEAS",2,0.125000
+"Ryan Hurd",1,0.062500
+"Ralph",1,0.062500
+"COIN",2,0.125000
+"almost monday",1,0.062500
+"Carly Rae Jepsen",4,0.250000
+"Billie Eilish,Vince Staples",1,0.062500
+"ZAYN",2,0.125000
+"Yeah Yeah Yeahs",2,0.125000
+"Sigrid",1,0.062500
+"Jake Scott",1,0.062500
+"Alexander 23",2,0.125000
+"Valley",1,0.062500
+"Rence",1,0.062500
+"Sundara Karma",2,0.125000
+"HAIM",1,0.062500
+"Dawes",1,0.062500
+"Tones And I",3,0.187500
+"Aaron Taos",1,0.062500
+"ayokay",1,0.062500
+"Smash Mouth,Breathe Carolina",1,0.062500
+"Louis The Child,Ashe",1,0.062500
+"REST ACRES",1,0.062500
+"Winnetka Bowling League,RAC",1,0.062500
+"Kodaline",2,0.125000
+"Rostam",1,0.062500
+"John Legend,Gary Clark Jr.",2,0.125000
+"Tom Rosenthal,Cosmo Sheldrake",1,0.062500
+"Max Frost",1,0.062500
+"Sam Smith",12,0.750000
+"Mike Mains & The Branches",1,0.062500
+"Louis The Child,Quinn XCII,Chelsea Cutler",1,0.062500
+"Houses",1,0.062500
+"Josh Ritter",1,0.062500
+"Bill Withers",1,0.062500
+"Dawson Hollow,Ivan the Surreal DJ",1,0.062500
+"Ryn Weaver",1,0.062500
+"Grizfolk",1,0.062500
+"Bien",1,0.062500
+"Big Wild,Rationale",1,0.062500
+"Eli Young Band",1,0.062500
+"Gryffin,Noah Kahan",1,0.062500
+"Zwette,Tom Rosenthal",1,0.062500
+"A Tribe Called Quest",1,0.062500
+"Keyes.",1,0.062500
+"ODESZA,Leon Bridges,Tycho",1,0.062500
+"Glass Animals",1,0.062500
+"BROODS",1,0.062500
+"Foreign Air",1,0.062500
+"The Strumbellas",2,0.125000
+"Whitney Houston,Clean Bandit",1,0.062500
+"Kygo,X Ambassadors",1,0.062500
+"Elton John,Dua Lipa,PNAU",2,0.125000
+"Wilderado",1,0.062500
+"Bay Ledges",1,0.062500
+"Khruangbin,Leon Bridges",1,0.062500
+"Tom Grennan,Billen Ted",1,0.062500
+"Coldplay,Big Sean",1,0.062500
+"The Beaches",1,0.062500
+"A-Wall",1,0.062500
+"Manchester Orchestra",1,0.062500
+"Greta Van Fleet",2,0.125000
+"David Kushner",2,0.125000
+"Calum Scott",2,0.125000
+"Zach Bryan",4,0.250000
+"Lord Huron,Phoebe Bridgers",1,0.062500
+"Duke Dumont",1,0.062500
+"The Oh Hellos",4,0.250000
+"Stephen Sanchez,Em Beihold",1,0.062500
+"Iron & Wine",2,0.125000
+"Angus & Julia Stone",2,0.125000
+"Bon Iver",3,0.187500
+"Dr. Dog",2,0.125000
+"The Ocho",1,0.062500
+"Pinegrove",1,0.062500
+"Lord Huron",6,0.375000
+"Milky Chance",4,0.250000
+"Sub Urban",1,0.062500
+"Sierra Ferrell",1,0.062500
+"Albert Hammond",1,0.062500
+"The Ballroom Thieves",2,0.125000
+"Khalid",6,0.375000
+"Stephen Dawes",1,0.062500
+"The Last Shadow Puppets",1,0.062500
+"Fleet Foxes",1,0.062500
+"THE ANXIETY,WILLOW,Tyler Cole",1,0.062500
+"Ashe,FINNEAS",1,0.062500
+"TV Girl",1,0.062500
+"Jeff Buckley",1,0.062500
+"The Smiths",3,0.187500
+"Lana Del Rey,SYML",1,0.062500
+"Lana Del Rey,Father John Misty",1,0.062500
+"Taylor Swift,Bon Iver",1,0.062500
+"Matt Maltese",2,0.125000
+"Mitski",1,0.062500
+"Loving Caliber",1,0.062500
+"AURORA",2,0.125000
+"Mazzy Star",1,0.062500
+"Sleeping At Last",1,0.062500
+"The Chainsmokers",2,0.125000
+"Niall Horan",4,0.250000
+"Elliot Root",1,0.062500
+"Lewis Watson",1,0.062500
+"The Features",1,0.062500
+"Ed Sheeran,Chance the Rapper,PnB Rock",1,0.062500
+"Twenty One Pilots",6,0.375000
+"Fetty Wap",2,0.125000
+"PUBLIC",1,0.062500
+"fun.,Janelle Monáe",6,0.375000
+"Echosmith",3,0.187500
+"Nate Ruess",1,0.062500
+"Vicetone,Cozi Zuehlsdorff",1,0.062500
+"AJR",6,0.375000
+"New West",1,0.062500
+"Secondhand Serenade",1,0.062500
+"Elle King,Miranda Lambert,GOLDHOUSE",1,0.062500
+"Easton Corbin",1,0.062500
+"Ant Saunders",1,0.062500
+"Julia Michaels,Niall Horan",1,0.062500
+"Sir Chloe",1,0.062500
+"Honey Gentry",1,0.062500
+"Cigarettes After Sex",2,0.125000
+"ZAYN,Sia",1,0.062500
+"The Shacks",1,0.062500
+"Morningsiders",1,0.062500
+"JP Saxe,Julia Michaels",1,0.062500
+"REO Speedwagon",1,0.062500
+"HXLLYWOOD,Glizzy G",1,0.062500
+"Moon Taxi",2,0.125000
+"Billy Idol",1,0.062500
+"Tyler Childers",2,0.125000
+"MÖWE,Jonasu,Eskeemo",1,0.062500
+"Foxes",1,0.062500
+"Billie Marten",1,0.062500
+"Little Big Town",2,0.125000
+"Kenny Chesney",2,0.125000
+"L.A Band",1,0.062500
+"Lady A",7,0.437500
+"Imperial Mammoth",1,0.062500
+"Amber Run",1,0.062500
+"Mimi Webb",1,0.062500
+"Hailee Steinfeld",2,0.125000
+"C-Ro",1,0.062500
+"Bebe Rexha",1,0.062500
+"Bea Miller",1,0.062500
+"Hey Violet",1,0.062500
+"Daughtry",1,0.062500
+"Mabel",4,0.250000
+"Panicland",1,0.062500
+"Gym Class Heroes",1,0.062500
+"Ghost",1,0.062500
+"Kate Bush",3,0.187500
+"Edison Lighthouse",1,0.062500
+"Paloma Faith",2,0.125000
+"MARINA",3,0.187500
+"Alec Benjamin",2,0.125000
+"YUNGBLUD",1,0.062500
+"Dean Lewis",1,0.062500
+"John Anderson",1,0.062500
+"Pharrell Williams,Nile Rodgers,Thomas Bangalter,Guy-Manuel de Homem-Christo,Daft Punk",2,0.125000
+"David Guetta,Flo Rida,Nicki Minaj",5,0.312500
+"TobyMac,Hollyn,Tru",1,0.062500
+"Jonas Blue,Dakota",1,0.062500
+"Bishop Briggs",1,0.062500
+"Rosa Linn",1,0.062500
+"Micky",1,0.062500
+"Chayce Beckham",1,0.062500
+"Lainey Wilson",1,0.062500
+"Zedd,Foxes",3,0.187500
+"The Moss",1,0.062500
+"SYML",1,0.062500
+"Ed Sheeran,Camila Cabello,Cardi B",2,0.125000
+"Gregory Alan Isakov",1,0.062500
+"Ethan Regan",1,0.062500
+"Bon Iver,St. Vincent",1,0.062500
+"Snoop Dogg,Wiz Khalifa,Bruno Mars",2,0.125000
+"Kanye West,Jamie Foxx",3,0.187500
+"Jason Mraz",2,0.125000
+"Becky G",4,0.250000
+"Jacob Tillberg",2,0.125000
+"Diplo,Trippie Redd",1,0.062500
+"Justina Valentine",2,0.125000
+"Mario",3,0.187500
+"Track Starr",1,0.062500
+"David Guetta,Kid Cudi",1,0.062500
+"Brittany Bola",1,0.062500
+"Robbie Tripp",1,0.062500
+"Stakz DeVito,Millyz",1,0.062500
+"Pitbull,Ne-Yo",6,0.375000
+"Solina,Mblue",1,0.062500
+"Flo Rida,Robin Thicke,Verdine White",2,0.125000
+"Hot Chelle Rae",5,0.312500
+"PFG/Prettyface Gangsta",1,0.062500
+"Sean Kingston,Justin Bieber",3,0.187500
+"Riff Raff,Wiz Khalifa",1,0.062500
+"The Kid LAROI",3,0.187500
+"Kenzo Cregan",1,0.062500
+"X Ambassadors",1,0.062500
+"Saweetie,Doja Cat",1,0.062500
+"YellaCatt",1,0.062500
+"Rixton",3,0.187500
+"Riff Raff,Ku$h Drifter,YNG BNZO",1,0.062500
+"Blaine",1,0.062500
+"Drake,Majid Jordan",1,0.062500
+"Reyn Hartley",1,0.062500
+"Logic,Alessia Cara,Khalid",1,0.062500
+"Lil Yachty",1,0.062500
+"mgk,X Ambassadors,Bebe Rexha",1,0.062500
+"Dua Lipa,DaBaby",3,0.187500
+"Pitbull,TJR",2,0.125000
+"Sasha Lopez",1,0.062500
+"Swedish House Mafia,John Martin",2,0.125000
+"Riff Raff",1,0.062500
+"Scott & Brendo",1,0.062500
+"Dayglow",1,0.062500
+"Wallows,Clairo",1,0.062500
+"Mike Posner,Big Sean",3,0.187500
+"Flo Rida,Sia",6,0.375000
+"DRAM,Lil Yachty",2,0.125000
+"Florida Georgia Line",2,0.125000
+"Calvin Harris",8,0.500000
+"Galantis",3,0.187500
+"Finn",1,0.062500
+"Tyler James Williams,IM5",2,0.125000
+"B.o.B,Rivers Cuomo",3,0.187500
+"Pitbull,AFROJACK,Ne-Yo,Nayer",5,0.312500
+"Justin Bieber,Daniel Caesar,GIVĒON",2,0.125000
+"Calvin Harris,John Newman",2,0.125000
+"Far East Movement,The Cataracs,DEV",5,0.312500
+"David Guetta,Akon",1,0.062500
+"Big Sean",2,0.125000
+"Simple Plan,Sean Paul",1,0.062500
+"Offset,Metro Boomin",1,0.062500
+"Simple Plan,Natasha Bedingfield",2,0.125000
+"Cobra Starship,Sabi",4,0.250000
+"Travis Scott",3,0.187500
+"MKTO",7,0.437500
+"5 Seconds of Summer",5,0.312500
+"fun.",3,0.187500
+"Flo Rida",12,0.750000
+"Owl City,Carly Rae Jepsen",3,0.187500
+"Pitbull,Christina Aguilera",4,0.250000
+"CeeLo Green",7,0.437500
+"Fun Guns",1,0.062500
+"American Authors",3,0.187500
+"Radical Face",1,0.062500
+"Nico & Vinz",5,0.312500
+"Tiësto,Dzeko,Preme,Post Malone",2,0.125000
+"Tiësto,Matthew Koma",2,0.125000
+"Mr. Probz,Robin Schulz",1,0.062500
+"Lilly Wood and The Prick,Robin Schulz",3,0.187500
+"Mike Posner,Seeb",2,0.125000
+"Young Thug,Future",1,0.062500
+"Travie McCoy,Bruno Mars",5,0.312500
+"The Worst Cover Band Of The World",1,0.062500
+"Macklemore,Ryan Lewis,Macklemore & Ryan Lewis,Ray Dalton",6,0.375000
+"K'NAAN",2,0.125000
+"Paul Simpson",1,0.062500
+"Flo Rida,David Guetta",5,0.312500
+"Ku$h Drifter",1,0.062500
+"Vedo",1,0.062500
+"Bankrol Hayden,Luh Kel",1,0.062500
+"Jessie Reyez",1,0.062500
+"AJ Mitchell",1,0.062500
+"Luh Kel",1,0.062500
+"Petit Biscuit",1,0.062500
+"Lost Frequencies,Janieck Devy",2,0.125000
+"Illijah",1,0.062500
+"Nebu Kiniza",1,0.062500
+"FouKi",1,0.062500
+"Black Eyed Peas,J Balvin",1,0.062500
+"BENEE,Gus Dapperton",1,0.062500
+"MEDUZA,Becky Hill,Goodboys",1,0.062500
+"Gym Class Heroes,Adam Levine",4,0.250000
+"Olly Murs,Flo Rida",5,0.312500
+"Social House,Lil Yachty",2,0.125000
+"The Script",6,0.375000
+"I U 1 D C",1,0.062500
+"Ku$h Drifter,YNG BNZO",1,0.062500
+"Valentino Khan",1,0.062500
+"SirRiot",1,0.062500
+"Calboy",1,0.062500
+"will.i.am,Britney Spears",3,0.187500
+"JAY-Z,Alicia Keys",3,0.187500
+"Taio Cruz",6,0.375000
+"Lost Frequencies,The NGHBRS",1,0.062500
+"Lupe Fiasco",1,0.062500
+"Cher Lloyd",3,0.187500
+"Demi Lovato,Cher Lloyd",3,0.187500
+"Pitbull,Kesha",5,0.312500
+"Lil Mama",2,0.125000
+"M83",1,0.062500
+"Wiz Khalifa,Charlie Puth",2,0.125000
+"Tove Lo",3,0.187500
+"Cody Simpson",1,0.062500
+"The Vamps,Demi Lovato",1,0.062500
+"Leona Lewis",6,0.375000
+"Kid Cudi,MGMT,Ratatat",1,0.062500
+"Miguel",1,0.062500
+"Ariana Grande,The Weeknd",2,0.125000
+"B.o.B,Hayley Williams",6,0.375000
+"Macklemore & Ryan Lewis,Macklemore,Ryan Lewis,Hollis,ScHoolboy Q",1,0.062500
+"Katy Perry,Juicy J",4,0.250000
+"Cali Swag District",1,0.062500
+"The Vamps,Matoma",1,0.062500
+"Soulja Boy,Sammie",4,0.250000
+"Macklemore & Ryan Lewis,Macklemore,Ryan Lewis,Wanz",3,0.187500
+"Taio Cruz,Flo Rida",2,0.125000
+"Sevyn Streeter,Chris Brown",2,0.125000
+"Jeremih",3,0.187500
+"Chris Brown,Drake",1,0.062500
+"Jeremih,J. Cole",1,0.062500
+"Millyz",1,0.062500
+"Deorro,Chris Brown",2,0.125000
+"DJ Khaled,T-Pain,Ludacris,Snoop Dogg,Rick Ross",1,0.062500
+"Lykke Li",1,0.062500
+"P!nk,Nate Ruess",3,0.187500
+"Macklemore,Skylar Grey",3,0.187500
+"Iyaz",5,0.312500
+"Alexandra Stan",2,0.125000
+"Cardi B,Megan Thee Stallion",1,0.062500
+"Kat Dahlia",1,0.062500
+"Astrid S",2,0.125000
+"Anne-Marie",2,0.125000
+"Halsey",5,0.312500
+"Phony Ppl",1,0.062500
+"Riton,Nightcrawlers,Mufasa & Hypeman,Mufasa,Dopamine",1,0.062500
+"B.o.B,2 Chainz,Coucheron",1,0.062500
+"J. Cole",3,0.187500
+"Chase Atlantic",2,0.125000
+"mgk,Trippie Redd",1,0.062500
+"mgk,Camila Cabello",1,0.062500
+"Nick Jonas",1,0.062500
+"jxdn",1,0.062500
+"Tiësto",1,0.062500
+"Kane Brown",1,0.062500
+"Jake Lindholm",1,0.062500
+"Naps",1,0.062500
+"Nea,Felix Jaehn",1,0.062500
+"Soran",1,0.062500
+"Noah Kahan,Julia Michaels",1,0.062500
+"The Kid LAROI,mgk",1,0.062500
+"Felix Cartal,Sophie Simmons",1,0.062500
+"Bryce Vine,YG",1,0.062500
+"Kiiara,Felix Snow",1,0.062500
+"R3HAB,Trevor Guthrie",1,0.062500
+"JNT,St-Prince",1,0.062500
+"Ty Dolla $ign,Future,Rae Sremmurd,Louis The Child",1,0.062500
+"The Kid LAROI,Justin Bieber",1,0.062500
+"Bad Bunny,JHAYCO",1,0.062500
+"Chiddy Bang",1,0.062500
+"Magic System,Chawki",1,0.062500
+"Ellie Goulding,Juice WRLD",1,0.062500
+"mgk,blackbear",1,0.062500
+"Martin Garrix,Dua Lipa",1,0.062500
+"Roddy Ricch",1,0.062500
+"Zach Sobiech",1,0.062500
+"Clinton Kane",1,0.062500
+"Lukas Graham",3,0.187500
+"Jade LeMac",1,0.062500
+"JAY-Z,Kanye West",4,0.250000
+"Ella Henderson",2,0.125000
+"Naughty Boy,Sam Smith",4,0.250000
+"Beyoncé,Sean Paul",1,0.062500
+"Timbaland,OneRepublic",3,0.187500
+"Don Omar,Lucenzo",2,0.125000
+"GAYLE",3,0.187500
+"Cardi B,Bad Bunny,J Balvin",3,0.187500
+"Dolly Parton",9,0.562500
+"Kelsea Ballerini",2,0.125000
+"Aly & AJ",3,0.187500
+"We The Kings",1,0.062500
+"4 Non Blondes",1,0.062500
+"Dua Lipa",9,0.562500
+"Little Mix",6,0.375000
+"WALK THE MOON",4,0.250000
+"MUNA,Phoebe Bridgers",1,0.062500
+"All Time Low",1,0.062500
+"The B-52's",4,0.250000
+"Carole King",2,0.125000
+"Mungo Jerry",1,0.062500
+"corook,Olivia Barton",1,0.062500
+"TV Themes",1,0.062500
+"Paul Russell",1,0.062500
+"Paris Hilton",1,0.062500
+"The Pussycat Dolls",5,0.312500
+"Jessie J,Ariana Grande,Nicki Minaj",3,0.187500
+"Free Throw",2,0.125000
+"Playboi Carti",1,0.062500
+"Trophy Eyes",1,0.062500
+"Del Water Gap",1,0.062500
+"The Ronettes",2,0.125000
+"Nine Inch Nails",1,0.062500
+"Ski Mask The Slump God,SahBabii",1,0.062500
+"Ski Mask The Slump God",3,0.187500
+"Eazy-E",1,0.062500
+"Snoop Dogg,Daz Dillinger",2,0.125000
+"N.W.A.",2,0.125000
+"Snoop Dogg,Tha Dogg Pound,The Dramatics",1,0.062500
+"Big Sean,Jhené Aiko",2,0.125000
+"Stetsasonic",1,0.062500
+"Lil Wayne,Bobby V.,Kidd Kidd",2,0.125000
+"Nas",1,0.062500
+"Tyga",3,0.187500
+"Luci4",1,0.062500
+"Flyleaf",2,0.125000
+"Pierce The Veil,Kellin Quinn",1,0.062500
+"Korn",2,0.125000
+"Soundgarden",1,0.062500
+"The Dirty Nil",1,0.062500
+"Highly Suspect",1,0.062500
+"Tyler, The Creator",5,0.312500
+"Slipknot",1,0.062500
+"Rob Zombie",2,0.125000
+"Drowning Pool",1,0.062500
+"The Rolling Stones",5,0.312500
+"Buffalo Springfield",1,0.062500
+"The Zombies",1,0.062500
+"Booker T. & the M.G.'s",1,0.062500
+"The Animals",4,0.250000
+"The Doors",2,0.125000
+"Lynyrd Skynyrd",6,0.375000
+"Elvis Presley",6,0.375000
+"Norman Greenbaum",1,0.062500
+"Jimi Hendrix",1,0.062500
+"Cream",1,0.062500
+"Steve Miller Band",1,0.062500
+"Bob Dylan",1,0.062500
+"NLE Choppa",2,0.125000
+"Travis Porter,Tyga",1,0.062500
+"Travis Porter,Spodee",1,0.062500
+"Kevin Gates,Juicy J",1,0.062500
+"Ne-Yo,Juicy J",1,0.062500
+"Sage The Gemini,Iamsu!",1,0.062500
+"Iggy Azalea,Rita Ora",2,0.125000
+"Gotye,Kimbra",4,0.250000
+"Victorious Cast,Victoria Justice",3,0.187500
+"Far East Movement,Ryan Tedder,Ruff Loaderz",4,0.250000
+"Lady Gaga,Beyoncé",1,0.062500
+"Teriyaki Boyz",1,0.062500
+"The Backseat Lovers",2,0.125000
+"Kendrick Lamar,U2",1,0.062500
+"Nancy Sinatra",1,0.062500
+"Cuco",1,0.062500
+"Briston Maroney",1,0.062500
+"La Dispute",1,0.062500
+"Panucci's Pizza",1,0.062500
+"Mom Jeans.",1,0.062500
+"Born Without Bones",1,0.062500
+"Metric,Brie Larson",1,0.062500
+"Dance Gavin Dance",1,0.062500
+"$uicideboy$",6,0.375000
+"Peach Pit",2,0.125000
+"The Turtles",1,0.062500
+"Lustra",1,0.062500
+"Pixies",1,0.062500
+"Beck",1,0.062500
+"Pearl Jam",1,0.062500
+"Skrillex",1,0.062500
+"Dot Exe,Meg & Dia",1,0.062500
+"will.i.am,Jamie Foxx,Anne Hathaway",1,0.062500
+"Gorillaz,Shaun Ryder",1,0.062500
+"Skillet",1,0.062500
+"Hollywood Undead",1,0.062500
+"Joey Valence & Brae",7,0.437500
+"Papa Roach",1,0.062500
+"Zach Bryan,Kacey Musgraves",1,0.062500
+"The Clovers",1,0.062500
+"Sam The Sham & The Pharaohs",1,0.062500
+"The Charlie Daniels Band",2,0.125000
+"Bubba Sparxxx,Ying Yang Twins,Mr. Collipark",1,0.062500
+"Basement",1,0.062500
+"The Weeknd,Lana Del Rey",2,0.125000
+"BigXthaPlug",8,0.500000
+"Hanumankind,Kalmi",1,0.062500
+"Good Intent",1,0.062500
+"XXXTENTACION,Matt OX",1,0.062500
+"Derek King",1,0.062500
+"Rae Sremmurd",2,0.125000
+"MAKAVELIGODD",2,0.125000
+"Bad Wolves",1,0.062500
+"Five Finger Death Punch",1,0.062500
+"Disturbed",1,0.062500
+"A$AP Rocky,Skrillex,Birdy Nam Nam,Lord Flacko",1,0.062500
+"PSY",1,0.062500
+"Wet Leg",1,0.062500
+"Joji,Yves Tumor",1,0.062500
+"Big Time Rush",2,0.125000
+"Taron Egerton",3,0.187500
+"Alex Clare",2,0.125000
+"The Clash",2,0.125000
+"Sheck Wes",2,0.125000
+"Jack Lenz",1,0.062500
+"Crystal Castles",1,0.062500
+"Mia Martina,Waka Flocka Flame",1,0.062500
+"Liam Payne,Quavo",2,0.125000
+"blackbear,Gucci Mane",1,0.062500
+"frxzen",1,0.062500
+"Pitbull",6,0.375000
+"Megan Thee Stallion,Yuki Chiba",1,0.062500
+"Ty Dolla $ign,The Weeknd,Wiz Khalifa,Mustard",2,0.125000
+"Lil Wayne,Drake,Future",2,0.125000
+"Big Sean,E-40",1,0.062500
+"Kehlani",1,0.062500
+"A Boogie Wit da Hoodie,Kodak Black",1,0.062500
+"G-Eazy,Remo the Hitmaker",1,0.062500
+"USHER,will.i.am",4,0.250000
+"CHINCHILLA",2,0.125000
+"Tyler, The Creator,Lola Young",1,0.062500
+"Emmy Meli",1,0.062500
+"Christine Baranski,Cleve Asbury,Shaun Amyot,Rick Negron,Taye Diggs",1,0.062500
+"lil Shordie Scott",1,0.062500
+"Birdman,Lil Wayne",1,0.062500
+"Sexyy Red",5,0.312500
+"Tyler, The Creator,GloRilla,Sexyy Red,Lil Wayne",1,0.062500
+"Fresh X Reckless",1,0.062500
+"Lay Bankz",1,0.062500
+"Rico Nasty",1,0.062500
+"Doja Cat,Gucci Mane",1,0.062500
+"Black Coast,M. Maggie,Lucian",1,0.062500
+"Dopebwoy,Chivv,3robi",1,0.062500
+"mazie",1,0.062500
+"mishlawi",1,0.062500
+"Jason Derulo,Nicki Minaj,Ty Dolla $ign",1,0.062500
+"Ro Ransom,Y2K",1,0.062500
+"Lil Wayne,Wiz Khalifa,Imagine Dragons,X Ambassadors,Logic,Ty Dolla $ign",1,0.062500
+"Flo Rida,Sage The Gemini,Lookas",2,0.125000
+"Tyler Cassidy",1,0.062500
+"Marshmello,Anne-Marie",1,0.062500
+"KYLE,Lil Yachty",1,0.062500
+"Ayo & Teo",1,0.062500
+"XXXTENTACION",7,0.437500
+"Rob $tone,J. Davi$,J Spooks",2,0.125000
+"Wiz Khalifa",1,0.062500
+"Aminé",1,0.062500
+"¥$,Kanye West,Ty Dolla $ign",1,0.062500
+"O.T. Genasis",1,0.062500
+"MIIA",1,0.062500
+"Ghostemane",4,0.250000
+"XXXTENTACION,Ski Mask The Slump God",1,0.062500
+"Lil Wayne",2,0.125000
+"Bhad Bhabie",1,0.062500
+"Bhad Bhabie,Lil Yachty",1,0.062500
+"widowdusk",1,0.062500
+"The Notorious B.I.G.",3,0.187500
+"Kanye West,Dwele",1,0.062500
+"2Pac,K-Ci & JoJo",1,0.062500
+"Ceechynaa",1,0.062500
+"2Pac,Outlawz",1,0.062500
+"2Pac,Snoop Dogg",1,0.062500
+"Ice Cube",3,0.187500
+"2Pac",1,0.062500
+"Makaveli",1,0.062500
+"Deftones",8,0.500000
+"SHOP BOYZ",1,0.062500
+"Sir Mix-A-Lot",1,0.062500
+"Michael Prince,Koncept P,willnosleep,avonosleep",1,0.062500
+"Bleed The Wicked Menace",1,0.062500
+"XXXTENTACION,Trippie Redd",1,0.062500
+"iLoveMemphis",1,0.062500
+"M City JR",1,0.062500
+"Lil Darkie",4,0.250000
+"Sia,Diplo,Labrinth,LSD",2,0.125000
+"Lil Darkie,MADJAX",1,0.062500
+"Radiohead",1,0.062500
+"Massive Attack,Horace Andy",1,0.062500
+"She Wants Revenge",1,0.062500
+"G-Eazy,Bebe Rexha",1,0.062500
+"Le Tigre",1,0.062500
+"Ram Jam",1,0.062500
+"Slowdive",1,0.062500
+"Ayesha Erotica",1,0.062500
+"Shaggy",2,0.125000
+"Sarcoline",1,0.062500
+"Gucci Mane,Bruno Mars,Kodak Black",1,0.062500
+"Spoken Reasons",1,0.062500
+"The Weather Girls",2,0.125000
+"Gloria Gaynor",3,0.187500
+"En Vogue",1,0.062500
+"Fugees,Ms. Lauryn Hill",2,0.125000
+"JPEGMAFIA",2,0.125000
+"BROCKHAMPTON",1,0.062500
+"Nicki Minaj,Drake,Lil Wayne,Chris Brown",2,0.125000
+"Frost Children,Danny Brown",1,0.062500
+"2hollis",1,0.062500
+"SAYGRACE,G-Eazy",1,0.062500
+"$uicideboy$,Shakewell",1,0.062500
+"A$AP Rocky",3,0.187500
+"Michael Kiwanuka",1,0.062500
+"GRLwood",1,0.062500
+"Rage Against The Machine",1,0.062500
+"Cheap Perfume",1,0.062500
+"Insane Clown Posse",3,0.187500
+"Artemas",2,0.125000
+"Post Malone,Quavo",1,0.062500
+"J. Cole,Cults,Amber Coffman",1,0.062500
+"AWOLNATION",1,0.062500
+"Sleepy Hallow,Doechii",1,0.062500
+"Aloboi",1,0.062500
+"D4L",2,0.125000
+"Camila Cabello,Young Thug",2,0.125000
+"Nashville Tribute Collection",1,0.062500
+"Ludacris",1,0.062500
+"Xavier Wulf",1,0.062500
+"Zach Bryan,Watchhouse",1,0.062500
+"Chezile",1,0.062500
+"The Cardigans",2,0.125000
+"Iggy Azalea",1,0.062500
+"Neil Diamond",3,0.187500
+"Don McLean",2,0.125000
+"Jessies Girl",1,0.062500
+"The Monkees",2,0.125000
+"Belinda Carlisle",4,0.250000
+"Choirboys",1,0.062500
+"Hoobastank",1,0.062500
+"Bullet For My Valentine",1,0.062500
+"Mark Ronson,Amy Winehouse",2,0.125000
+"Lizzo,Cardi B",1,0.062500
+"Sigala,James Arthur",1,0.062500
+"The Pointer Sisters",3,0.187500
+"Tiffany",1,0.062500
+"Eskimo Joe",1,0.062500
+"Måneskin",2,0.125000
+"Masked Wolf",1,0.062500
+"Joel Corry,RAYE,David Guetta",1,0.062500
+"Jess Glynne",3,0.187500
+"Ava Max",9,0.562500
+"Doja Cat,SZA",2,0.125000
+"Lil Nas X",3,0.187500
+"Savage Garden",2,0.125000
+"Sam Smith,Normani",1,0.062500
+"ICEHOUSE",1,0.062500
+"Rodney Atkins",1,0.062500
+"Elle King",1,0.062500
+"Clean Bandit,Jess Glynne",4,0.250000
+"Hayley Kiyoko",4,0.250000
+"Troye Sivan,Betty Who",1,0.062500
+"Troye Sivan",3,0.187500
+"Daryl Braithwaite",1,0.062500
+"Little Mix,Nicki Minaj",1,0.062500
+"Lady Gaga,Bradley Cooper",2,0.125000
+"Clean Bandit,Mabel,24kGoldn",1,0.062500
+"Lady Gaga,Ariana Grande",1,0.062500
+"Taylor Dayne",2,0.125000
+"Hootie & The Blowfish",2,0.125000
+"John Lennon",1,0.062500
+"Carly Simon",1,0.062500
+"La Roux",3,0.187500
+"Maroon 5,Rihanna",1,0.062500
+"Rihanna,Slash",1,0.062500
+"The Veronicas",4,0.250000
+"benny blanco,Halsey,Khalid",1,0.062500
+"Peking Duk",1,0.062500
+"Sophie Ellis-Bextor",2,0.125000
+"Troye Sivan,Ariana Grande",1,0.062500
+"Kesha,The Dap-Kings Horns",2,0.125000
+"Superfruit",1,0.062500
+"Josh Dylan,Lily James,Hugh Skinner",1,0.062500
+"Cher,Andy Garcia",1,0.062500
+"Christine Baranski,Julie Walters,Amanda Seyfried",1,0.062500
+"Lily James,Jessica Keenan Wynn,Alexa Davies,Celia Imrie",1,0.062500
+"Hugh Skinner,Lily James",2,0.125000
+"Sam Feldt,RANI",1,0.062500
+"Camila Cabello,DaBaby",1,0.062500
+"Short Stack",5,0.312500
+"Kasey Chambers",1,0.062500
+"Adore Delano",5,0.312500
+"YUNGBLUD,Halsey,Travis Barker",1,0.062500
+"Zedd,Katy Perry",1,0.062500
+"Mark Ronson,Miley Cyrus",2,0.125000
+"Mark Keali'i Ho'omalu,Kamehameha Schools Children's Chorus",1,0.062500
+"Simon & Garfunkel",2,0.125000
+"Zager & Evans",1,0.062500
+"Marc Cohn",1,0.062500
+"Nena",2,0.125000
+"The Band Perry",4,0.250000
+"Miranda Lambert",8,0.500000
+"3OH!3",2,0.125000
+"Jesse McCartney",2,0.125000
+"Vonda Shepard",1,0.062500
+"Sandi Thom",2,0.125000
+"Busted",1,0.062500
+"Red Illusions",1,0.062500
+"Eric Carmen",1,0.062500
+"Patrick Swayze,Wendy Fraser",1,0.062500
+"Dusty Springfield",1,0.062500
+"Bonnie Tyler",3,0.187500
+"Eurythmics,Annie Lennox,Dave Stewart",4,0.250000
+"Ewan McGregor,Alessandro Safina",1,0.062500
+"Nicole Kidman,Ewan McGregor,Jamie Allen",1,0.062500
+"Elijah Kelley",1,0.062500
+"John Travolta,Michelle Pfeiffer",1,0.062500
+"Michelle Pfeiffer",1,0.062500
+"Catherine Zeta-Jones,Susan Misner,Deidre Goodwin,Denise Faye,Ekaterina Chtchelkanova,Mya Harrison,Taye Diggs",1,0.062500
+"Jemaine Clement,Disney",1,0.062500
+"Anika Noni Rose",2,0.125000
+"Susan Egan,The Muses",1,0.062500
+"Dominic Cooper,Amanda Seyfried",1,0.062500
+"Nikki Blonsky,Zac Efron,Amanda Bynes,Elijah Kelley,John Travolta,Queen Latifah",1,0.062500
+"Zella Day",1,0.062500
+"Cher",19,1.187500
+"Calvin Harris,Dua Lipa",2,0.125000
+"OMI,AronChupa",1,0.062500
+"Adam Lambert",1,0.062500
+"OMI,Felix Jaehn",2,0.125000
+"Lorde,Khalid,Post Malone,SZA",2,0.125000
+"Maggie Lindemann,CADE,Cheat Codes",1,0.062500
+"Conor Maynard",1,0.062500
+"Suzi Quatro",7,0.437500
+"Clean Bandit,Louisa Johnson",1,0.062500
+"Clean Bandit,Anne-Marie,Sean Paul",2,0.125000
+"Slim Dusty",2,0.125000
+"Amanda Halloran Written By Kristan Hall",1,0.062500
+"Miranda Lambert,Carrie Underwood",1,0.062500
+"Tim McGraw",4,0.250000
+"Troy Cassar-Daley,Adam Harvey",1,0.062500
+"Sonny & Cher",1,0.062500
+"Lee Kernaghan",29,1.812500
+"Lee Kernaghan,Adam Brand,Steve Forde",1,0.062500
+"Lee Kernaghan,Robby X",1,0.062500
+"Jimmy Barnes,David Nicholas",1,0.062500
+"Cold Chisel",3,0.187500
+"Hunters & Collectors",1,0.062500
+"Australian Crawl",2,0.125000
+"John Williamson",29,1.812500
+"Rogue Traders",1,0.062500
+"Sneaky Sound System",1,0.062500
+"Jessica Darrow",1,0.062500
+"Stephanie Beatriz,Olga Merediz,John Leguizamo,Adassa,Maluma,Encanto - Cast",1,0.062500
+"Barbie,Mattel",3,0.187500
+"Maddie Zahm",2,0.125000
+"Lost Frequencies,Calum Scott",1,0.062500
+"Timbaland,Katy Perry",3,0.187500
+"PNAU,Troye Sivan",1,0.062500
+"Sam Smith,Calvin Harris,Jessie Reyez",1,0.062500
+"Lil Nas X,Jack Harlow",1,0.062500
+"G.R.L.",1,0.062500
+"Jessie J",3,0.187500
+"LeAnn Rimes",5,0.312500
+"Scouting For Girls",1,0.062500
+"Missy Higgins",1,0.062500
+"Olly Murs,Louisa Johnson",1,0.062500
+"Samantha Jade",1,0.062500
+"Guy Sebastian",2,0.125000
+"Keith Urban,Carrie Underwood",1,0.062500
+"Jessica Mauboy",2,0.125000
+"Shannon Noll",1,0.062500
+"MIKA",5,0.312500
+"Steps",1,0.062500
+"Nikki Webster,Sam Mac",1,0.062500
+"Bella Heart",1,0.062500
+"Natalia Kills",1,0.062500
+"Martina McBride",1,0.062500
+"Kristinia DeBarge",1,0.062500
+"Avery",1,0.062500
+"Cyndi Lauper",7,0.437500
+"Emeli Sandé",1,0.062500
+"Amanda Seyfried,Ashley Lilley,Rachel McDowall",1,0.062500
+"Morgan Evans",1,0.062500
+"Little Mix,Stormzy",1,0.062500
+"Bonnie McKee",1,0.062500
+"Lily James,Jessica Keenan Wynn,Alexa Davies",1,0.062500
+"Cher,Meryl Streep,Christine Baranski,Julie Walters,Pierce Brosnan,Colin Firth,Stellan Skarsgård,Andy Garcia,Amanda Seyfried,Dominic Cooper,Lily James,Jessica Keenan Wynn,Alexa Davies,Josh Dylan,Jeremy Irvine,Hugh Skinner",1,0.062500
+"Christine Baranski,Philip Michael",1,0.062500
+"Julie Walters,Stellan Skarsgård",1,0.062500
+"Rihanna,Kanye West,Paul McCartney",3,0.187500
+"The Vamps",3,0.187500
+"Tina Turner",2,0.125000
+"John Farnham",4,0.250000
+"Stan Walker",1,0.062500
+"Todrick Hall",13,0.812500
+"Priscilla Renea",1,0.062500
+"Taylor Swift,Ed Sheeran",1,0.062500
+"SIX",1,0.062500
+"Zac Efron,Motion Picture Cast of Hairspray",1,0.062500
+"Little Mix,Sean Paul",1,0.062500
+"Thirsty Merc",2,0.125000
+"Mandy Miles",1,0.062500
+"P!nk,Wideboys",1,0.062500
+"Darius Rucker",1,0.062500
+"RuPaul,Clairy Browne",1,0.062500
+"Keith Urban,P!nk",1,0.062500
+"P!nk,Lily Allen",2,0.125000
+"Metro Station",2,0.125000
+"Hot Chelle Rae,New Boyz",1,0.062500
+"LeAnn Rimes,Dave Audé",1,0.062500
+"The Darkness",1,0.062500
+"Dan + Shay",3,0.187500
+"Maroon 5,Christina Aguilera",5,0.312500
+"A.R. Rahman,The Pussycat Dolls,Nicole Scherzinger",1,0.062500
+"Stephanie McIntosh",1,0.062500
+"Young Divas",1,0.062500
+"Trixie Mattel",3,0.187500
+"Billy Ray Cyrus",1,0.062500
+"The Script,will.i.am",2,0.125000
+"Eurythmics,Annie Lennox,Dave Stewart,Aretha Franklin",1,0.062500
+"Lionel Richie,Rascal Flatts",1,0.062500
+"Aretha Franklin",2,0.125000
+"DNCE,Grease Live Cast",1,0.062500
+"Madonna",11,0.687500
+"Rudimental,Jess Glynne,Macklemore,Dan Caplen",2,0.125000
+"Cobra Starship,Leighton Meester",1,0.062500
+"Ricki-Lee",1,0.062500
+"Cimorelli",1,0.062500
+"RuPaul",4,0.250000
+"RuPaul,The Cast of RuPaul's Drag Race",1,0.062500
+"RuPaul,The Cast of RuPaul's Drag Race All Stars, Season 2",1,0.062500
+"RuPaul,The Cast of Rupaul's Drag Race All Stars, Season 3",1,0.062500
+"Blair St. Clair",2,0.125000
+"Ginger Minj",1,0.062500
+"Tiësto,Tate McRae",1,0.062500
+"G Flip",2,0.125000
+"G Flip,Lauren Sanderson",1,0.062500
+"Delta Goodrem",1,0.062500
+"Olly Murs",2,0.125000
+"Lily Allen",2,0.125000
+"Jordin Sparks",2,0.125000
+"Vanessa Amorosi",1,0.062500
+"Taylor Swift,Brendon Urie,Panic! At The Disco",1,0.062500
+"Anna Kendrick",1,0.062500
+"Karmin",1,0.062500
+"Kim Petras,Nicki Minaj",1,0.062500
+"Deep Blue Something",1,0.062500
+"Anne-Marie,Shania Twain",1,0.062500
+"Divinyls",2,0.125000
+"Kenny Rogers",1,0.062500
+"Waylon Jennings,Willie Nelson",1,0.062500
+"Peach PRC",1,0.062500
+"Patsy Cline,The Jordanaires",1,0.062500
+"Alan Jackson,Jimmy Buffett",1,0.062500
+"Dolly Parton,Kenny Rogers",3,0.187500
+"Glen Campbell",1,0.062500
+"Charley Pride",1,0.062500
+"Josh Turner",1,0.062500
+"Toby Keith",5,0.312500
+"Brooks & Dunn",3,0.187500
+"Alan Jackson",1,0.062500
+"Johnny Cash",1,0.062500
+"Akon,Colby O'Donis,Kardinal Offishall",2,0.125000
+"Ciara,Justin Timberlake",1,0.062500
+"Vengaboys",1,0.062500
+"Bebe Rexha,Snoop Dogg",1,0.062500
+"Dove Cameron,Sofia Carson,Booboo Stewart,Cameron Boyce,Jadah Marie,Anna Cathcart,Disney",1,0.062500
+"Dove Cameron,Cameron Boyce,Booboo Stewart,Sofia Carson,Disney",1,0.062500
+"China Anne McClain,Thomas Doherty,Dylan Playfair,Disney",1,0.062500
+"Dove Cameron,Sofia Carson,Booboo Stewart,Cameron Boyce,China Anne McClain,Mitchell Hope,Thomas Doherty,Dylan Playfair,Sarah Jeffery,Jadah Marie,Brenna D'Amico,Zachary Gibson,Disney",1,0.062500
+"Danny Elfman",1,0.062500
+"Bette Midler,Sarah Jessica Parker,Kathy Najimy",1,0.062500
+"Jeremy Irons,Whoopi Goldberg,Cheech Marin,Jim Cummings",1,0.062500
+"Sofia Carson,Cameron Boyce,Booboo Stewart,Mitchell Hope,Disney",1,0.062500
+"Anthony Gonzalez,Gael Garcia Bernal",1,0.062500
+"Jenifer Lewis,The Pinnacle Gospel Choir",1,0.062500
+"Julie Fowlis",1,0.062500
+"Miguel,Natalia Lafourcade",1,0.062500
+"Lea Salonga,Harvey Fierstein,Matthew Wilder,James Hong,Jerry Tondo,Disney",1,0.062500
+"Carmen Twillie,Lebo M.",1,0.062500
+"Pat Carroll,Disney",1,0.062500
+"Emma Watson,Luke Evans,Ensemble - Beauty and the Beast",1,0.062500
+"Anthony Gonzalez,Antonio Sol",1,0.062500
+"Lea Salonga,Beth Fowler,Marni Nixon,Chorus - Mulan,Disney",1,0.062500
+"Dan Stevens",1,0.062500
+"Angela Lansbury,Disney",1,0.062500
+"Maurice Chevalier",1,0.062500
+"Roxette",2,0.125000
+"Prince",1,0.062500
+"Roy Orbison",2,0.125000
+"Nikki Blonsky,Motion Picture Cast of Hairspray",1,0.062500
+"Queen Latifah,Motion Picture Cast of Hairspray",2,0.125000
+"Elijah Kelley,Amanda Bynes,Zac Efron,Nikki Blonsky,Motion Picture Cast of Hairspray",1,0.062500
+"David Bowie",5,0.312500
+"Todrick Hall,Zoe Roe",1,0.062500
+"Todrick Hall,Kylie Sonique",1,0.062500
+"Todrick Hall,RuPaul",2,0.125000
+"Todrick Hall,Jay Armstrong Johnson",1,0.062500
+"Todrick Hall,Nicole Scherzinger",1,0.062500
+"Todrick Hall,Bob the Drag Queen",1,0.062500
+"Todrick Hall,Jordin Sparks",1,0.062500
+"Alaska Thunderfuck,Adore Delano",1,0.062500
+"Dove Cameron,Khalid",1,0.062500
+"Dove Cameron,Cheyenne Jackson,Disney",1,0.062500
+"Dove Cameron,Sofia Carson,Cameron Boyce,Booboo Stewart,China Anne McClain,Thomas Doherty,Disney",1,0.062500
+"China Anne McClain,Disney",1,0.062500
+"Kristin Chenoweth,Dove Cameron,Disney",1,0.062500
+"Ester Dean,Skylar Astin",1,0.062500
+"The Treblemakers",1,0.062500
+"Chris Stapleton",1,0.062500
+"Calvin Harris,Rihanna",2,0.125000
+"Rudimental,Emeli Sandé",1,0.062500
+"Sheppard",1,0.062500
+"Meat Loaf",2,0.125000
+"Culture Club",2,0.125000
+"Olivia Newton-John",2,0.125000
+"Fergie,Ludacris",4,0.250000
+"Rupert Holmes",1,0.062500
+"Jax",1,0.062500
+"Em Beihold",1,0.062500
+"Marshmello,Jonas Brothers",1,0.062500
+"Maroon 5,Megan Thee Stallion",1,0.062500
+"Camila Cabello,Ed Sheeran",2,0.125000
+"Marshmello,Khalid",1,0.062500
+"Post Malone,Doja Cat",1,0.062500
+"ZAYN,Taylor Swift",1,0.062500
+"Hailee Steinfeld,Grey,Zedd",1,0.062500
+"Lewis Capaldi",3,0.187500
+"George Michael",3,0.187500
+"Diana Ross",2,0.125000
+"Jake Owen",1,0.062500
+"Blake Shelton",2,0.125000
+"Randy Houser",1,0.062500
+"Zac Brown Band,Jimmy Buffett",1,0.062500
+"Big & Rich",1,0.062500
+"Gretchen Wilson",1,0.062500
+"Labrinth",1,0.062500
+"Anson Seabra",1,0.062500
+"Ashnikko",3,0.187500
+"Ashnikko,Princess Nokia",1,0.062500
+"Ashnikko,Baby Tate",1,0.062500
+"Devon Cole",1,0.062500
+"Bella Poarch",2,0.125000
+"The Runaways",1,0.062500
+"Pomplamoose",1,0.062500
+"Lesley Gore",1,0.062500
+"Falling In Reverse",1,0.062500
+"Nina Tribus",1,0.062500
+"Miley Cyrus,Stevie Nicks",1,0.062500
+"Ashnikko,Grimes",1,0.062500
+"Kiki Rockwell",2,0.125000
+"Lydia the Bard",16,1.000000
+"The Vivienne",1,0.062500
+"Shea Couleé,Lila Star,The Vixen",1,0.062500
+"Shea Couleé",1,0.062500
+"Victorious Cast,Elizabeth Gillies,Ariana Grande",1,0.062500
+"Victorious Cast,Victoria Justice,Elizabeth Gillies",1,0.062500
+"Quarterflash",1,0.062500
+"Queens of the Universe",2,0.125000
+"Anastacia",2,0.125000
+"Deana Carter",1,0.062500
+"Jason Aldean",2,0.125000
+"Joe Nichols",1,0.062500
+"Ron Pope",1,0.062500
+"Brad Paisley,Alison Krauss",1,0.062500
+"Diamond Rio",1,0.062500
+"Kellie Pickler",1,0.062500
+"Madonna,Justin Timberlake,Timbaland",3,0.187500
+"Coi Leray",1,0.062500
+"The Mamas & The Papas",1,0.062500
+"Doris Day,Paul Weston And His Orchestra",1,0.062500
+"Brooks Jefferson",1,0.062500
+"Phil Vassar",1,0.062500
+"Randy Travis",1,0.062500
+"Bobby Boris Pickett,The Crypt-Kickers",1,0.062500
+"Natalie Jane",1,0.062500
+"Bailey Zimmerman",1,0.062500
+"Jack Harlow",1,0.062500
+"America,George Martin",1,0.062500
+"Sinéad O'Connor",1,0.062500
+"Harry Chapin",1,0.062500
+"Warren Zevon",1,0.062500
+"Poison",2,0.125000
+"October Country",1,0.062500
+"Lauv,Anne-Marie",1,0.062500
+"Cutting Crew",3,0.187500
+"U2",5,0.312500
+"John Waite",1,0.062500
+"Lydia the Bard,Tony Halliwell",2,0.125000
+"Soft Cell",2,0.125000
+"Jennifer Lopez,Pitbull",4,0.250000
+"Bruno Mars,Cardi B",2,0.125000
+"Pitbull,John Ryan",2,0.125000
+"John Newman",3,0.187500
+"Sigala,Ella Eyre",1,0.062500
+"Bebe Rexha,Florida Georgia Line",1,0.062500
+"Kygo,Whitney Houston",2,0.125000
+"Zara Larsson,MNEK",1,0.062500
+"Sia,Sean Paul",1,0.062500
+"David Guetta,Sia",4,0.250000
+"David Guetta,USHER",4,0.250000
+"Shakira,Rihanna",1,0.062500
+"David Guetta,Nicki Minaj",2,0.125000
+"Major Lazer,DJ Snake,MØ",1,0.062500
+"Ariana Grande,Zedd",2,0.125000
+"Robin Schulz,Francesco Yates",3,0.187500
+"Maggie Lindemann,Cheat Codes,CADE",1,0.062500
+"Eric Prydz",2,0.125000
+"Rag'n'Bone Man",1,0.062500
+"David Guetta,AFROJACK,Bebe Rexha,Nicki Minaj",1,0.062500
+"Joel Corry,MNEK",1,0.062500
+"Charli xcx,Billie Eilish",1,0.062500
+"Dasha",8,0.500000
+"Ana Swan",1,0.062500
+"Eminem,Ed Sheeran",1,0.062500
+"Elle King,Miranda Lambert",1,0.062500
+"Big & Rich,Gretchen Wilson",1,0.062500
+"Wolfmother",1,0.062500
+"Crowded House",2,0.125000
+"INXS",2,0.125000
+"Dave Dobbyn,Herbs",1,0.062500
+"Bernard Fanning",1,0.062500
+"Bachelor Girl",1,0.062500
+"The Angels",1,0.062500
+"Paul Kelly,The Messengers",2,0.125000
+"Redgum",1,0.062500
+"Spiderbait",1,0.062500
+"Goanna",1,0.062500
+"Pseudo Echo",1,0.062500
+"Jimmy Barnes",1,0.062500
+"Diesel",1,0.062500
+"Ian Moss",1,0.062500
+"Dragon",2,0.125000
+"Richard Clapton",1,0.062500
+"Skyhooks",1,0.062500
+"The Bangles",2,0.125000
+"Sam Fischer,Demi Lovato",1,0.062500
+"Sabrina Carpenter,Dolly Parton",1,0.062500
+"Patsy Cline",1,0.062500
+"Beverley Knight,Sister Act (2024 London Cast)",1,0.062500
+"Tori Kelly",2,0.125000
+"Tori Kelly,Pharrell Williams",1,0.062500
+"Scarlett Johansson",3,0.187500
+"Reese Witherspoon,Nick Kroll",1,0.062500
+"Bomba Estéreo",1,0.062500
+"Tori Kelly,Taron Egerton,Scarlett Johansson,Nick Kroll",1,0.062500
+"Auli'i Cravalho,Hualālai Chung,Rose Matafeo,David Fane,Disney",1,0.062500
+"Auli'i Cravalho,Disney,Rachel House",1,0.062500
+"Awhimai Fraser,Disney",1,0.062500
+"Meryl Streep",1,0.062500
+"Timmy Trumpet,Savage",1,0.062500
+"Reba McEntire",1,0.062500
+"Katrina & The Waves",2,0.125000
+"Kool & The Gang",2,0.125000
+"Bee Gees",7,0.437500
+"Carl Douglas",1,0.062500
+"Van Halen",2,0.125000
+"MC Hammer",2,0.125000
+"Village People",2,0.125000
+"Chris Medina",1,0.062500
+"Maroon 5,Wiz Khalifa",3,0.187500
+"LMFAO,Lauren Bennett,GoonRock",1,0.062500
+"Aloe Blacc",2,0.125000
+"Inner Circle",1,0.062500
+"Mohombi",1,0.062500
+"Mohombi,Nicole Scherzinger",1,0.062500
+"Steppenwolf",1,0.062500
+"Neil Donnell",1,0.062500
+"Pitbull,Marc Anthony",1,0.062500
+"Snoop Dogg,David Guetta,Giorgio Tuinfort,Frédéric Riesterer",1,0.062500
+"Shakira,Freshlyground",1,0.062500
+"Macklemore & Ryan Lewis,Wanz",1,0.062500
+"Michel Teló",1,0.062500
+"Diddy - Dirty Money,Skylar Grey",2,0.125000
+"Mike Posner,Gigamesh",2,0.125000
+"B.o.B,Bruno Mars",3,0.187500
+"Passenger",1,0.062500
+"Flo Rida,Pitbull",1,0.062500
+"Madcon",2,0.125000
+"Madcon,Ray Dalton",1,0.062500
+"Hermes House Band",1,0.062500
+"Luke Christopher",1,0.062500
+"Mr. Probz",1,0.062500
+"Robin Thicke,T.I.,Pharrell Williams",3,0.187500
+"Bjørn Johan Muri",1,0.062500
+"Donkeyboy",4,0.250000
+"Snakehips,Tinashe,Chance the Rapper",1,0.062500
+"Matoma,Faith Evans,The Notorious B.I.G.,Snoop Dogg",1,0.062500
+"Coolio,L.V.",1,0.062500
+"The Weeknd,Daft Punk",2,0.125000
+"Ariana Grande,Iggy Azalea",2,0.125000
+"John Travolta,Jeff Conaway",2,0.125000
+"Lucenzo,Don Omar",1,0.062500
+"Kenny Loggins",2,0.125000
+"Huey Lewis & The News",1,0.062500
+"Alexander Rybak",1,0.062500
+"Cast of Mamma Mia! The Movie,Philip Michael,Christine Baranski,Julie Walters,Stellan Skarsgård",1,0.062500
+"Pink Floyd",2,0.125000
+"Matoma,The Notorious B.I.G.,Ja Rule,Ralph Tresvant",1,0.062500
+"Major Lazer,Nyla,Fuse ODG",1,0.062500
+"Kungs,Cookin' On 3 Burners",1,0.062500
+"A$AP Rocky,Rod Stewart,Miguel,Mark Ronson",1,0.062500
+"Isac Elliot",1,0.062500
+"Justin Bieber,Jaden",1,0.062500
+"Jessie J,B.o.B",1,0.062500
+"Austin Mahone,Pitbull",2,0.125000
+"Kygo,Conrad Sewell",1,0.062500
+"U.S.A. For Africa",1,0.062500
+"Dexys Midnight Runners,Kevin Rowland",1,0.062500
+"ItaloBrothers",1,0.062500
+"David Guetta,Kelly Rowland",1,0.062500
+"Guy Sebastian,Lupe Fiasco",1,0.062500
+"Veronica Jax",1,0.062500
+"Elton John,Kiki Dee",2,0.125000
+"Laleh",1,0.062500
+"Adelén",1,0.062500
+"Calvin Harris,Pharrell Williams,Katy Perry,Big Sean,Funk Wav",2,0.125000
+"Martin Garrix,Macklemore,Fall Out Boy",1,0.062500
+"Earth, Wind & Fire,The Emotions",1,0.062500
+"CHIC",1,0.062500
+"Pierce Brosnan,Meryl Streep",1,0.062500
+"Lena",1,0.062500
+"Avicii,Conrad Sewell",1,0.062500
+"David Guetta,Sam Martin",1,0.062500
+"Sia",3,0.187500
+"Wham!",3,0.187500
+"Sam Fender",1,0.062500
+"2Pac,Big Syke",1,0.062500
+"NEIKED,Dyo",1,0.062500
+"Tez Cadey",1,0.062500
+"David Guetta,Ne-Yo,Akon",2,0.125000
+"50 Cent,Olivia",1,0.062500
+"Robin Schulz,Ilsey",1,0.062500
+"Pitbull,Jennifer Lopez,Claudia Leitte",1,0.062500
+"Jerry Lee Lewis",1,0.062500
+"Sister Sledge",1,0.062500
+"Major Lazer,MØ,DJ Snake",1,0.062500
+"Bananarama",1,0.062500
+"Lipps Inc.",1,0.062500
+"James Brown",1,0.062500
+"MGMT",2,0.125000
+"Becky Hill,David Guetta",1,0.062500
+"Logic,Rag'n'Bone Man",1,0.062500
+"Dennis Lloyd",1,0.062500
+"Robbie Williams",3,0.187500
+"Dire Straits",2,0.125000
+"Matthew Wilder",2,0.125000
+"Lissie",1,0.062500
+"Nik Kershaw",1,0.062500
+"Rihanna,Calvin Harris",4,0.250000
+"LF SYSTEM",1,0.062500
+"Status Quo",1,0.062500
+"Kakkmaddafakka",1,0.062500
+"Amy Diamond",1,0.062500
+"The Beach Boys",4,0.250000
+"Duffy",1,0.062500
+"Alphaville",2,0.125000
+"Scissor Sisters",2,0.125000
+"Jamelia",1,0.062500
+"Kygo,Labrinth",1,0.062500
+"The Monroes",1,0.062500
+"Scorpions",1,0.062500
+"The Blues Brothers,Aretha Franklin",1,0.062500
+"Sam & Dave",1,0.062500
+"Bertine Zetlitz",1,0.062500
+"Loreen",1,0.062500
+"Måns Zelmerlöw",1,0.062500
+"Modern Talking",1,0.062500
+"Michael Bublé",1,0.062500
+"Dagny",1,0.062500
+"Wet Wet Wet",1,0.062500
+"Barry Manilow",1,0.062500
+"The Trammps",1,0.062500
+"Bill Medley,Jennifer Warnes",1,0.062500
+"Jan Hammer",1,0.062500
+"Rick James",1,0.062500
+"Edwin Starr",1,0.062500
+"Enrique Iglesias",1,0.062500
+"Justice",1,0.062500
+"Bob Marley & The Wailers",1,0.062500
+"KISS",1,0.062500
+"Barry White",1,0.062500
+"George Benson",1,0.062500
+"Rock Mafia",1,0.062500
+"Ice Cube,Das EFX",1,0.062500
+"Billy Ocean",1,0.062500
+"Player",1,0.062500
+"Gerry Rafferty",1,0.062500
+"French Montana,Swae Lee",1,0.062500
+"Candi Staton",1,0.062500
+"Jungle,Channel Tres",1,0.062500
+"Seeb,Skip Marley",1,0.062500
+"Sugababes",1,0.062500
+"Murray Head",1,0.062500
+"Amy Macdonald",1,0.062500
+"Irene Cara",1,0.062500
+"Hannah Montana",3,0.187500
+"Future",7,0.437500
+"Drake,PARTYNEXTDOOR",3,0.187500
+"CEO Trayle",1,0.062500
+"Drake,Rihanna",1,0.062500
+"Drake,GIVĒON",1,0.062500
+"Daniel Caesar",14,0.875000
+"Don Toliver,Quavo,Offset",1,0.062500
+"Mac Miller",3,0.187500
+"21 Savage",2,0.125000
+"03 Greedo",1,0.062500
+"Jhené Aiko,Childish Gambino",1,0.062500
+"Tory Lanez,RL Grime",1,0.062500
+"Drake,Sampha",1,0.062500
+"Childish Gambino,Jhené Aiko",1,0.062500
+"Yebba,A$AP Rocky",1,0.062500
+"SZA,Travis Scott",3,0.187500
+"Daniel Caesar,Kali Uchis",1,0.062500
+"SZA,Chance the Rapper",1,0.062500
+"Stunna Gambino",1,0.062500
+"Rick Ross,Drake,Chrisette Michele",1,0.062500
+"Tyler, The Creator,Rex Orange County,Anna of the North",1,0.062500
+"Drake,Travis Scott",1,0.062500
+"Tyler, The Creator,Kali Uchis",1,0.062500
+"Tyler, The Creator,A$AP Rocky",1,0.062500
+"A$AP Rocky,Frank Ocean",1,0.062500
+"Drake,Nicki Minaj",1,0.062500
+"PARTYNEXTDOOR,Drake",2,0.125000
+"Kiana Ledé,Bryson Tiller",1,0.062500
+"Яeternity",1,0.062500
+"Reggie Becton",1,0.062500
+"Tory Lanez",2,0.125000
+"Mura Masa,A$AP Rocky",1,0.062500
+"Summer Walker",3,0.187500
+"Kehlani,Ty Dolla $ign",1,0.062500
+"Bakar",1,0.062500
+"ilostmyself",1,0.062500
+"d3puu",1,0.062500
+"SZA,Don Toliver",1,0.062500
+"Marshmello,Brent Faiyaz",1,0.062500
+"SZA,The Neptunes,Pharrell Williams,Ty Dolla $ign",1,0.062500
+"Drake,Static Major,Ty Dolla $ign",1,0.062500
+"Drake,Michael Jackson",1,0.062500
+"Steve Lacy",2,0.125000
+"Daniel Caesar,Ty Dolla $ign",1,0.062500
+"Daniel Caesar,Charlotte Day Wilson",1,0.062500
+"Daniel Caesar,John Mayer",1,0.062500
+"Daniel Caesar,Mustafa",1,0.062500
+"G-Eazy,Christoph Andersson",1,0.062500
+"A$AP Rocky,Imogen Heap,Clams Casino",1,0.062500
+"Drake,Yeat",1,0.062500
+"juju<3",1,0.062500
+"H.E.R.",5,0.312500
+"Daniel Caesar,Sean Leon,Jacob Collier",1,0.062500
+"Frank Ocean,Earl Sweatshirt",1,0.062500
+"LUCKI",1,0.062500
+"Jace!",1,0.062500
+"Veeze",2,0.125000
+"Nicki Minaj,Drake",1,0.062500
+"Rihanna,Future",2,0.125000
+"Rihanna,Drake",3,0.187500
+"Tyler, The Creator,Frank Ocean",2,0.125000
+"Future,The Weeknd",1,0.062500
+"Travis Scott,SZA,Future",2,0.125000
+"Lil Tecca",2,0.125000
+"Timbaland,Drake",1,0.062500
+"Jhené Aiko",8,0.500000
+"Jhené Aiko,Big Sean",2,0.125000
+"Frank Ocen",1,0.062500
+"80purppp",1,0.062500
+"Pi’erre Bourne,Sharc",1,0.062500
+"Lil Yachty,Future,Playboi Carti",1,0.062500
+"Drake,Lykke Li",1,0.062500
+"Autumn!",1,0.062500
+"Kendrick Lamar,Drake",1,0.062500
+"Kendrick Lamar,Rihanna",1,0.062500
+"Kendrick Lamar,Jay Rock",1,0.062500
+"Naomi Sharon",1,0.062500
+"Trippie Redd,PARTYNEXTDOOR",1,0.062500
+"Ken Carson",3,0.187500
+"Kelly Rowland,Lil Wayne",1,0.062500
+"Future,Kelly Rowland",1,0.062500
+"Rick Ross,Nicki Minaj",1,0.062500
+"DJ Khaled,Drake,Rick Ross,Lil Wayne",1,0.062500
+"Young Money,Drake",1,0.062500
+"Drake,Trey Songz,Lil Wayne",1,0.062500
+"Drake,Kanye West,Lil Wayne,Eminem",1,0.062500
+"Ro James",1,0.062500
+"Trill Family,Boosie Badazz,Webbie,Kiara",1,0.062500
+"Nicki Minaj,Beyoncé",2,0.125000
+"Nicki Minaj,Rihanna",1,0.062500
+"DJ Khaled,Rihanna,Bryson Tiller",1,0.062500
+"Drake,Jhené Aiko",1,0.062500
+"Drake,Yebba",1,0.062500
+"Jhené Aiko,Kurupt",1,0.062500
+"Jhené Aiko,Namiko,Miyagi",1,0.062500
+"Jhené Aiko,Swae Lee",1,0.062500
+"Omarion,Chris Brown,Jhené Aiko",1,0.062500
+"Jhené Aiko,Future,Miguel",1,0.062500
+"Summer Walker,Jhené Aiko",1,0.062500
+"Paperboy Fabe,Brent Faiyaz",1,0.062500
+"Baby Keem",1,0.062500
+"Drake,SZA",1,0.062500
+"Rick Ross,Wale,Drake",1,0.062500
+"Mariah the Scientist",1,0.062500
+"Summer Walker,PARTYNEXTDOOR",1,0.062500
+"Nicki Minaj,Jeremih",1,0.062500
+"DaniLeigh,Chris Brown",1,0.062500
+"Meek Mill,Jeremih,PnB Rock",1,0.062500
+"USHER,Alicia Keys",2,0.125000
+"Chris Brown,USHER,Rick Ross",1,0.062500
+"¥$,Kanye West,Ty Dolla $ign,Rich The Kid,Playboi Carti",1,0.062500
+"Drake,Sexyy Red,SZA",1,0.062500
+"SZA,Phoebe Bridgers",1,0.062500
+"SZA,Ol' Dirty Bastard",1,0.062500
+"Summer Walker,Drake",1,0.062500
+"Chris Travis",1,0.062500
+"Tems",1,0.062500
+"Brent Faiyaz,Dahi,Tyler, The Creator",1,0.062500
+"Brent Faiyaz,Drake,The Neptunes",1,0.062500
+"Ciara",1,0.062500
+"Jacquees,Summer Walker,6LACK",1,0.062500
+"Drake,Omarion",1,0.062500
+"Teddy Swims",1,0.062500
+"DeJ Loaf",1,0.062500
+"Flume,kai",1,0.062500
+"R. City,Adam Levine",1,0.062500
+"Sonder,Jorja Smith",1,0.062500
+"Drake,Jeezy",1,0.062500
+"Lil Yachty,Future,Mike WiLL Made-It",1,0.062500
+"Stunna Girl",3,0.187500
+"Shakur Luciano",1,0.062500
+"DeJ Loaf,Lil Wayne",1,0.062500
+"Kodak Black,Boosie Badazz",1,0.062500
+"Lil Baby,Lil Durk",1,0.062500
+"TurnmeupHaiti",1,0.062500
+"DeJ Loaf,Future",1,0.062500
+"YoungBoy Never Broke Again",2,0.125000
+"MoneySign Suede",1,0.062500
+"Flo Milli",3,0.187500
+"atm luv",1,0.062500
+"21 Savage,Summer Walker",1,0.062500
+"Kodak Black,Plies",1,0.062500
+"Jacquees,Lloyd,Rich Homie Quan",1,0.062500
+"BossMan Dlow",1,0.062500
+"Saweetie,Jhené Aiko",1,0.062500
+"City Girls,JT",1,0.062500
+"YFN Lucci",3,0.187500
+"Sexyy Red,Tay Keith",1,0.062500
+"GloRilla",1,0.062500
+"lagostaah,Yung Bruh",1,0.062500
+"dopuu",1,0.062500
+"J. Holiday",1,0.062500
+"Jacquees",1,0.062500
+"Young Money,Lloyd",2,0.125000
+"Trey Songz",1,0.062500
+"Ginuwine",1,0.062500
+"Ne-Yo",4,0.250000
+"Gyptian",1,0.062500
+"Lloyd,Lil Wayne",1,0.062500
+"Tory Lanez,Nyce",1,0.062500
+"Trey Songz,Drake",1,0.062500
+"Fat Joe,Chris Brown",1,0.062500
+"YG",3,0.187500
+"Gesaffelstein,The Weeknd",1,0.062500
+"Phora",1,0.062500
+"Wale,Tiara Thomas",1,0.062500
+"YFN Lucci,Plies",1,0.062500
+"Tory Lanez,Chris Brown",1,0.062500
+"Queen Naija",1,0.062500
+"Wale,Jeremih",1,0.062500
+"YFN Lucci,Bigga Rankin",1,0.062500
+"YFN Lucci,Migos,Trouble",1,0.062500
+"YFN Lucci,PnB Rock",1,0.062500
+"JayDaYoungan",1,0.062500
+"DeJ Loaf,Jacquees",1,0.062500
+"Babyxsosa",1,0.062500
+"Nardo Wick,Sexyy Red",1,0.062500
+"Sy Ari Da Kid",1,0.062500
+"Summer Walker,SZA",1,0.062500
+"Sexyy Red,Sukihana",1,0.062500
+"BlakeIANA,Sexyy Red",1,0.062500
+"DaBaby,Sexyy Red",1,0.062500
+"Tyler Antonius",1,0.062500
+"SZA,Isaiah Rashad",1,0.062500
+"Tyler, The Creator,YoungBoy Never Broke Again,Ty Dolla $ign",1,0.062500
+"Tems,Brent Faiyaz",1,0.062500
+"Moneybagg Yo",2,0.125000
+"Lil Skies,Landon Cube",1,0.062500
+"Russ,BIA",1,0.062500
+"MCVERTT,A$AP Ferg,Sexyy Red",1,0.062500
+"Monaleo,Flo Milli",1,0.062500
+"Lancey Foux,Sexyy Red",1,0.062500
+"NAV",1,0.062500
+"Sexyy Red,Nicki Minaj,Tay Keith",1,0.062500
+"That Mexican OT",1,0.062500
+"Future,Metro Boomin,Travis Scott,Playboi Carti",1,0.062500
+"BigXthaPlug,Ro$ama",1,0.062500
+"BigXthaPlug,Prince Finessin',Ro$ama",1,0.062500
+"jaydes",3,0.187500
+"Bktherula",1,0.062500
+"Destroy Lonely",1,0.062500
+"Akon",2,0.125000
+"Jay Sean,Sean Paul,Lil Jon",1,0.062500
+"T.I.,Justin Timberlake",1,0.062500
+"Taio Cruz,Ludacris",2,0.125000
+"Diddy,112,Faith Evans",1,0.062500
+"Kanye West",5,0.312500
+"Kanye West,Chris Martin",1,0.062500
+"Declan McKenna",1,0.062500
+"Kanye West,Pusha T",1,0.062500
+"James Blunt",2,0.125000
+"Estelle,Kanye West",2,0.125000
+"Rihanna,Ne-Yo",1,0.062500
+"Simple Plan",1,0.062500
+"R. Kelly",2,0.125000
+"Ray J,Yung Berg",1,0.062500
+"JAY-Z,Mr Hudson",1,0.062500
+"JAY-Z,Rihanna,Kanye West",1,0.062500
+"Edward Maya,Vika Jigulina",1,0.062500
+"The Wanted",3,0.187500
+"David Guetta,Rihanna",1,0.062500
+"Calvin Harris,Ellie Goulding",3,0.187500
+"Kardinal Offishall,Akon",1,0.062500
+"Pitbull,Chris Brown",2,0.125000
+"Justin Bieber,Big Sean",2,0.125000
+"Bad Meets Evil,Bruno Mars",1,0.062500
+"will.i.am,Eva Simons",1,0.062500
+"Tinie Tempah,Eric Turner",1,0.062500
+"Modjo",1,0.062500
+"Timbaland,Justin Timberlake,Nelly Furtado",2,0.125000
+"Europe",1,0.062500
+"Footloose",1,0.062500
+"London Theatre Orchestra & Cast",1,0.062500
+"The Black Jets",1,0.062500
+"Los Lobos",1,0.062500
+"Operación Triunfo 2005",1,0.062500
+"The Rembrandts",2,0.125000
+"Styx",6,0.375000
+"Queen,David Bowie",1,0.062500
+"Naked Eyes",1,0.062500
+"UB40",1,0.062500
+"Jamiroquai",1,0.062500
+"Canned Heat",1,0.062500
+"When In Rome",1,0.062500
+"Tommy Tutone",1,0.062500
+"House Of Pain",1,0.062500
+"Run–D.M.C.",1,0.062500
+"Talking Heads",1,0.062500
+"DJ Jazzy Jeff & The Fresh Prince",1,0.062500
+"Fear Factory",1,0.062500
+"The J. Geils Band",1,0.062500
+"Joy Division",1,0.062500
+"Thompson Twins",1,0.062500
+"The Tubes",1,0.062500
+"Rancid",1,0.062500
+"The Specials",1,0.062500
+"The Tokens",1,0.062500
+"Icona Pop",1,0.062500
+"Martin Garrix",1,0.062500
+"Cassa Lio",1,0.062500
+"Chris Brown,Juelz Santana",1,0.062500
+"Rihanna,Nicki Minaj",1,0.062500
+"Rihanna,David Guetta",1,0.062500
+"Justin Bieber,Sean Kingston",2,0.125000
+"Justin Bieber,Chance the Rapper",1,0.062500
+"Calvin Harris,Frank Ocean,Migos,Funk Wav",1,0.062500
+"Calvin Harris,Future,Khalid,Funk Wav",1,0.062500
+"Calvin Harris,Ne-Yo",1,0.062500
+"3OH!3,Kesha",2,0.125000
+"Macklemore & Ryan Lewis,Macklemore,Ryan Lewis,Grandmaster Melle Mel,Grandmaster Caz,Kool Moe Dee,Eric Nally",1,0.062500
+"LunchMoney Lewis",1,0.062500
+"KONGOS",1,0.062500
+"Ariana Grande,Nicki Minaj",1,0.062500
+"Ariana Grande,Lil Wayne",1,0.062500
+"Ariana Grande,Future",1,0.062500
+"Timbaland,Keri Hilson,D.O.E.,Sebastian",1,0.062500
+"Timbaland",2,0.125000
+"50 Cent,Justin Timberlake,Timbaland",1,0.062500
+"Jordin Sparks,Chris Brown",1,0.062500
+"Khia",1,0.062500
+"cupcakKe",1,0.062500
+"Kesha,3OH!3",1,0.062500
+"Kanye West,Lil Pump",1,0.062500
+"Cardi B",4,0.250000
+"Migos,Nicki Minaj,Cardi B",1,0.062500
+"Biz Markie",1,0.062500
+"Keri Hilson",1,0.062500
+"Artists Of Then, Now & Forever",1,0.062500
+"Trap Beckham",1,0.062500
+"Clairo",1,0.062500
+"The Marvelettes",1,0.062500
+"Nivea,Brian Casey,Brandon Casey",1,0.062500
+"Kodak Black",1,0.062500
+"A$AP Rocky,Skepta",1,0.062500
+"Rex Orange County",3,0.187500
+"Post Malone",1,0.062500
+"Paul Anka",1,0.062500
+"Bella Thorne",1,0.062500
+"Drake Bell",1,0.062500
+"Troy,Gabriella",1,0.062500
+"AZ Chike",1,0.062500
+"Shoreline Mafia,Rob Vicious,OHGEESY,Fenix Flexin,Master Kato",2,0.125000
+"SOB X RBE",1,0.062500
+"Midland",1,0.062500
+"SprngBrk,PC",1,0.062500
+"Saweetie",1,0.062500
+"Rita Ora,Bebe Rexha,Charli xcx,Cardi B",1,0.062500
+"Eminem,Beyoncé",1,0.062500
+"Glee Cast",1,0.062500
+"Afroman",3,0.187500
+"Shawn Mendes,Zedd",1,0.062500
+"A Boogie Wit da Hoodie,6ix9ine",1,0.062500
+"A Boogie Wit da Hoodie",1,0.062500
+"Meek Mill,Drake",1,0.062500
+"Mitchell Tenpenny",1,0.062500
+"Jimmie Allen",1,0.062500
+"Ocho Drippin",1,0.062500
+"Shoreline Mafia",1,0.062500
+"Ryan,Sharpay Evans,Disney",1,0.062500
+"Troy Ave,Young Lito",1,0.062500
+"Blueface",1,0.062500
+"VIC MENSA,G-Eazy",1,0.062500
+"Tyga,Boosie Badazz",1,0.062500
+"Muscadine Bloodline",1,0.062500
+"Kamaiyah,YG",1,0.062500
+"Rex Orange County,Benny Sings",1,0.062500
+"YBN Nahmir",1,0.062500

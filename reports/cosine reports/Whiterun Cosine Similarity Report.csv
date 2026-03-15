@@ -1,0 +1,631 @@
+Playlist A, Playlist B, Feature, Cosine Similarity
+0,1,Duration (ms),0.65
+0,2,Duration (ms),0.31
+0,3,Duration (ms),0.67
+0,4,Duration (ms),0.10
+0,5,Duration (ms),0.22
+0,6,Duration (ms),0.75
+0,7,Duration (ms),0.29
+0,8,Duration (ms),0.40
+0,9,Duration (ms),0.53
+1,2,Duration (ms),0.37
+1,3,Duration (ms),0.67
+1,4,Duration (ms),0.18
+1,5,Duration (ms),0.38
+1,6,Duration (ms),0.63
+1,7,Duration (ms),0.38
+1,8,Duration (ms),0.58
+1,9,Duration (ms),0.76
+2,3,Duration (ms),0.45
+2,4,Duration (ms),0.09
+2,5,Duration (ms),0.18
+2,6,Duration (ms),0.55
+2,7,Duration (ms),0.75
+2,8,Duration (ms),0.31
+2,9,Duration (ms),0.28
+3,4,Duration (ms),0.12
+3,5,Duration (ms),0.20
+3,6,Duration (ms),0.72
+3,7,Duration (ms),0.51
+3,8,Duration (ms),0.38
+3,9,Duration (ms),0.58
+4,5,Duration (ms),0.32
+4,6,Duration (ms),0.10
+4,7,Duration (ms),0.09
+4,8,Duration (ms),0.23
+4,9,Duration (ms),0.19
+5,6,Duration (ms),0.21
+5,7,Duration (ms),0.16
+5,8,Duration (ms),0.53
+5,9,Duration (ms),0.36
+6,7,Duration (ms),0.41
+6,8,Duration (ms),0.47
+6,9,Duration (ms),0.48
+7,8,Duration (ms),0.28
+7,9,Duration (ms),0.24
+8,9,Duration (ms),0.51
+0,1,Popularity,0.58
+0,2,Popularity,0.24
+0,3,Popularity,0.63
+0,4,Popularity,0.10
+0,5,Popularity,0.23
+0,6,Popularity,0.58
+0,7,Popularity,0.29
+0,8,Popularity,0.46
+0,9,Popularity,0.40
+1,2,Popularity,0.49
+1,3,Popularity,0.81
+1,4,Popularity,0.18
+1,5,Popularity,0.30
+1,6,Popularity,0.60
+1,7,Popularity,0.50
+1,8,Popularity,0.68
+1,9,Popularity,0.62
+2,3,Popularity,0.62
+2,4,Popularity,0.06
+2,5,Popularity,0.21
+2,6,Popularity,0.65
+2,7,Popularity,0.70
+2,8,Popularity,0.26
+2,9,Popularity,0.27
+3,4,Popularity,0.12
+3,5,Popularity,0.21
+3,6,Popularity,0.68
+3,7,Popularity,0.57
+3,8,Popularity,0.53
+3,9,Popularity,0.40
+4,5,Popularity,0.28
+4,6,Popularity,0.11
+4,7,Popularity,0.09
+4,8,Popularity,0.20
+4,9,Popularity,0.14
+5,6,Popularity,0.27
+5,7,Popularity,0.20
+5,8,Popularity,0.51
+5,9,Popularity,0.28
+6,7,Popularity,0.67
+6,8,Popularity,0.39
+6,9,Popularity,0.34
+7,8,Popularity,0.25
+7,9,Popularity,0.32
+8,9,Popularity,0.60
+0,1,Danceability,0.50
+0,2,Danceability,0.48
+0,3,Danceability,0.77
+0,4,Danceability,0.12
+0,5,Danceability,0.26
+0,6,Danceability,0.70
+0,7,Danceability,0.48
+0,8,Danceability,0.36
+0,9,Danceability,0.44
+1,2,Danceability,0.17
+1,3,Danceability,0.48
+1,4,Danceability,0.16
+1,5,Danceability,0.36
+1,6,Danceability,0.36
+1,7,Danceability,0.27
+1,8,Danceability,0.50
+1,9,Danceability,0.44
+2,3,Danceability,0.42
+2,4,Danceability,0.04
+2,5,Danceability,0.16
+2,6,Danceability,0.33
+2,7,Danceability,0.38
+2,8,Danceability,0.21
+2,9,Danceability,0.24
+3,4,Danceability,0.13
+3,5,Danceability,0.24
+3,6,Danceability,0.67
+3,7,Danceability,0.51
+3,8,Danceability,0.33
+3,9,Danceability,0.37
+4,5,Danceability,0.37
+4,6,Danceability,0.09
+4,7,Danceability,0.05
+4,8,Danceability,0.27
+4,9,Danceability,0.11
+5,6,Danceability,0.27
+5,7,Danceability,0.21
+5,8,Danceability,0.51
+5,9,Danceability,0.25
+6,7,Danceability,0.58
+6,8,Danceability,0.29
+6,9,Danceability,0.50
+7,8,Danceability,0.21
+7,9,Danceability,0.37
+8,9,Danceability,0.44
+0,1,Energy,0.34
+0,2,Energy,0.29
+0,3,Energy,0.55
+0,4,Energy,0.10
+0,5,Energy,0.22
+0,6,Energy,0.49
+0,7,Energy,0.37
+0,8,Energy,0.36
+0,9,Energy,0.51
+1,2,Energy,0.28
+1,3,Energy,0.40
+1,4,Energy,0.14
+1,5,Energy,0.30
+1,6,Energy,0.34
+1,7,Energy,0.26
+1,8,Energy,0.43
+1,9,Energy,0.49
+2,3,Energy,0.51
+2,4,Energy,0.07
+2,5,Energy,0.12
+2,6,Energy,0.53
+2,7,Energy,0.76
+2,8,Energy,0.26
+2,9,Energy,0.24
+3,4,Energy,0.12
+3,5,Energy,0.23
+3,6,Energy,0.63
+3,7,Energy,0.40
+3,8,Energy,0.36
+3,9,Energy,0.44
+4,5,Energy,0.35
+4,6,Energy,0.08
+4,7,Energy,0.06
+4,8,Energy,0.24
+4,9,Energy,0.13
+5,6,Energy,0.19
+5,7,Energy,0.14
+5,8,Energy,0.38
+5,9,Energy,0.23
+6,7,Energy,0.40
+6,8,Energy,0.22
+6,9,Energy,0.41
+7,8,Energy,0.24
+7,9,Energy,0.37
+8,9,Energy,0.40
+0,1,Key,0.53
+0,2,Key,0.41
+0,3,Key,0.57
+0,4,Key,0.13
+0,5,Key,0.20
+0,6,Key,0.73
+0,7,Key,0.37
+0,8,Key,0.38
+0,9,Key,0.30
+1,2,Key,0.36
+1,3,Key,0.58
+1,4,Key,0.20
+1,5,Key,0.37
+1,6,Key,0.58
+1,7,Key,0.35
+1,8,Key,0.56
+1,9,Key,0.54
+2,3,Key,0.47
+2,4,Key,0.08
+2,5,Key,0.14
+2,6,Key,0.36
+2,7,Key,0.52
+2,8,Key,0.19
+2,9,Key,0.18
+3,4,Key,0.15
+3,5,Key,0.21
+3,6,Key,0.80
+3,7,Key,0.29
+3,8,Key,0.36
+3,9,Key,0.40
+4,5,Key,0.35
+4,6,Key,0.12
+4,7,Key,0.06
+4,8,Key,0.26
+4,9,Key,0.16
+5,6,Key,0.17
+5,7,Key,0.15
+5,8,Key,0.53
+5,9,Key,0.30
+6,7,Key,0.22
+6,8,Key,0.38
+6,9,Key,0.37
+7,8,Key,0.18
+7,9,Key,0.11
+8,9,Key,0.37
+0,1,Loudness,0.70
+0,2,Loudness,0.64
+0,3,Loudness,0.90
+0,4,Loudness,0.16
+0,5,Loudness,0.33
+0,6,Loudness,0.92
+0,7,Loudness,0.59
+0,8,Loudness,0.55
+0,9,Loudness,0.50
+1,2,Loudness,0.41
+1,3,Loudness,0.63
+1,4,Loudness,0.24
+1,5,Loudness,0.44
+1,6,Loudness,0.65
+1,7,Loudness,0.37
+1,8,Loudness,0.74
+1,9,Loudness,0.77
+2,3,Loudness,0.70
+2,4,Loudness,0.12
+2,5,Loudness,0.21
+2,6,Loudness,0.59
+2,7,Loudness,0.91
+2,8,Loudness,0.31
+2,9,Loudness,0.33
+3,4,Loudness,0.16
+3,5,Loudness,0.29
+3,6,Loudness,0.92
+3,7,Loudness,0.65
+3,8,Loudness,0.53
+3,9,Loudness,0.48
+4,5,Loudness,0.44
+4,6,Loudness,0.15
+4,7,Loudness,0.10
+4,8,Loudness,0.31
+4,9,Loudness,0.18
+5,6,Loudness,0.30
+5,7,Loudness,0.20
+5,8,Loudness,0.64
+5,9,Loudness,0.33
+6,7,Loudness,0.57
+6,8,Loudness,0.53
+6,9,Loudness,0.52
+7,8,Loudness,0.28
+7,9,Loudness,0.35
+8,9,Loudness,0.58
+0,1,Mode,0.42
+0,2,Mode,0.43
+0,3,Mode,0.47
+0,4,Mode,0.10
+0,5,Mode,0.17
+0,6,Mode,0.55
+0,7,Mode,0.17
+0,8,Mode,0.16
+0,9,Mode,0.18
+1,2,Mode,0.36
+1,3,Mode,0.10
+1,4,Mode,0.06
+1,5,Mode,0.14
+1,6,Mode,0.18
+1,7,Mode,0.00
+1,8,Mode,0.14
+1,9,Mode,0.31
+2,3,Mode,0.20
+2,4,Mode,0.06
+2,5,Mode,0.00
+2,6,Mode,0.19
+2,7,Mode,0.29
+2,8,Mode,0.00
+2,9,Mode,0.16
+3,4,Mode,0.02
+3,5,Mode,0.14
+3,6,Mode,0.31
+3,7,Mode,0.24
+3,8,Mode,0.15
+3,9,Mode,0.26
+4,5,Mode,0.16
+4,6,Mode,0.07
+4,7,Mode,0.07
+4,8,Mode,0.12
+4,9,Mode,0.05
+5,6,Mode,0.22
+5,7,Mode,0.07
+5,8,Mode,0.28
+5,9,Mode,0.26
+6,7,Mode,0.44
+6,8,Mode,0.21
+6,9,Mode,0.24
+7,8,Mode,0.21
+7,9,Mode,0.00
+8,9,Mode,0.12
+0,1,Speechiness,0.50
+0,2,Speechiness,0.28
+0,3,Speechiness,0.47
+0,4,Speechiness,0.12
+0,5,Speechiness,0.18
+0,6,Speechiness,0.48
+0,7,Speechiness,0.27
+0,8,Speechiness,0.35
+0,9,Speechiness,0.33
+1,2,Speechiness,0.47
+1,3,Speechiness,0.66
+1,4,Speechiness,0.22
+1,5,Speechiness,0.34
+1,6,Speechiness,0.67
+1,7,Speechiness,0.46
+1,8,Speechiness,0.68
+1,9,Speechiness,0.70
+2,3,Speechiness,0.63
+2,4,Speechiness,0.10
+2,5,Speechiness,0.16
+2,6,Speechiness,0.62
+2,7,Speechiness,0.82
+2,8,Speechiness,0.30
+2,9,Speechiness,0.28
+3,4,Speechiness,0.15
+3,5,Speechiness,0.24
+3,6,Speechiness,0.97
+3,7,Speechiness,0.61
+3,8,Speechiness,0.47
+3,9,Speechiness,0.53
+4,5,Speechiness,0.38
+4,6,Speechiness,0.15
+4,7,Speechiness,0.09
+4,8,Speechiness,0.30
+4,9,Speechiness,0.17
+5,6,Speechiness,0.25
+5,7,Speechiness,0.16
+5,8,Speechiness,0.50
+5,9,Speechiness,0.27
+6,7,Speechiness,0.58
+6,8,Speechiness,0.48
+6,9,Speechiness,0.57
+7,8,Speechiness,0.28
+7,9,Speechiness,0.33
+8,9,Speechiness,0.52
+0,1,Acousticness,0.72
+0,2,Acousticness,0.56
+0,3,Acousticness,0.89
+0,4,Acousticness,0.17
+0,5,Acousticness,0.35
+0,6,Acousticness,0.85
+0,7,Acousticness,0.47
+0,8,Acousticness,0.53
+0,9,Acousticness,0.49
+1,2,Acousticness,0.43
+1,3,Acousticness,0.67
+1,4,Acousticness,0.25
+1,5,Acousticness,0.51
+1,6,Acousticness,0.65
+1,7,Acousticness,0.37
+1,8,Acousticness,0.75
+1,9,Acousticness,0.73
+2,3,Acousticness,0.66
+2,4,Acousticness,0.10
+2,5,Acousticness,0.22
+2,6,Acousticness,0.62
+2,7,Acousticness,0.90
+2,8,Acousticness,0.33
+2,9,Acousticness,0.29
+3,4,Acousticness,0.16
+3,5,Acousticness,0.34
+3,6,Acousticness,0.91
+3,7,Acousticness,0.58
+3,8,Acousticness,0.51
+3,9,Acousticness,0.45
+4,5,Acousticness,0.47
+4,6,Acousticness,0.15
+4,7,Acousticness,0.09
+4,8,Acousticness,0.33
+4,9,Acousticness,0.18
+5,6,Acousticness,0.33
+5,7,Acousticness,0.19
+5,8,Acousticness,0.68
+5,9,Acousticness,0.37
+6,7,Acousticness,0.60
+6,8,Acousticness,0.49
+6,9,Acousticness,0.50
+7,8,Acousticness,0.29
+7,9,Acousticness,0.33
+8,9,Acousticness,0.54
+0,1,Instrumentalness,0.74
+0,2,Instrumentalness,0.59
+0,3,Instrumentalness,0.93
+0,4,Instrumentalness,0.16
+0,5,Instrumentalness,0.30
+0,6,Instrumentalness,0.94
+0,7,Instrumentalness,0.56
+0,8,Instrumentalness,0.54
+0,9,Instrumentalness,0.52
+1,2,Instrumentalness,0.45
+1,3,Instrumentalness,0.69
+1,4,Instrumentalness,0.23
+1,5,Instrumentalness,0.43
+1,6,Instrumentalness,0.70
+1,7,Instrumentalness,0.43
+1,8,Instrumentalness,0.71
+1,9,Instrumentalness,0.62
+2,3,Instrumentalness,0.64
+2,4,Instrumentalness,0.09
+2,5,Instrumentalness,0.21
+2,6,Instrumentalness,0.65
+2,7,Instrumentalness,0.95
+2,8,Instrumentalness,0.32
+2,9,Instrumentalness,0.31
+3,4,Instrumentalness,0.15
+3,5,Instrumentalness,0.26
+3,6,Instrumentalness,0.95
+3,7,Instrumentalness,0.61
+3,8,Instrumentalness,0.51
+3,9,Instrumentalness,0.47
+4,5,Instrumentalness,0.46
+4,6,Instrumentalness,0.15
+4,7,Instrumentalness,0.09
+4,8,Instrumentalness,0.32
+4,9,Instrumentalness,0.16
+5,6,Instrumentalness,0.26
+5,7,Instrumentalness,0.19
+5,8,Instrumentalness,0.62
+5,9,Instrumentalness,0.29
+6,7,Instrumentalness,0.62
+6,8,Instrumentalness,0.51
+6,9,Instrumentalness,0.46
+7,8,Instrumentalness,0.31
+7,9,Instrumentalness,0.36
+8,9,Instrumentalness,0.48
+0,1,Liveness,0.63
+0,2,Liveness,0.58
+0,3,Liveness,0.87
+0,4,Liveness,0.19
+0,5,Liveness,0.30
+0,6,Liveness,0.74
+0,7,Liveness,0.62
+0,8,Liveness,0.37
+0,9,Liveness,0.50
+1,2,Liveness,0.41
+1,3,Liveness,0.62
+1,4,Liveness,0.24
+1,5,Liveness,0.38
+1,6,Liveness,0.51
+1,7,Liveness,0.41
+1,8,Liveness,0.47
+1,9,Liveness,0.67
+2,3,Liveness,0.57
+2,4,Liveness,0.10
+2,5,Liveness,0.14
+2,6,Liveness,0.38
+2,7,Liveness,0.88
+2,8,Liveness,0.18
+2,9,Liveness,0.31
+3,4,Liveness,0.19
+3,5,Liveness,0.28
+3,6,Liveness,0.79
+3,7,Liveness,0.59
+3,8,Liveness,0.32
+3,9,Liveness,0.55
+4,5,Liveness,0.37
+4,6,Liveness,0.16
+4,7,Liveness,0.08
+4,8,Liveness,0.25
+4,9,Liveness,0.12
+5,6,Liveness,0.24
+5,7,Liveness,0.14
+5,8,Liveness,0.45
+5,9,Liveness,0.24
+6,7,Liveness,0.38
+6,8,Liveness,0.28
+6,9,Liveness,0.34
+7,8,Liveness,0.18
+7,9,Liveness,0.38
+8,9,Liveness,0.32
+0,1,Valence,0.34
+0,2,Valence,0.43
+0,3,Valence,0.88
+0,4,Valence,0.09
+0,5,Valence,0.18
+0,6,Valence,0.62
+0,7,Valence,0.61
+0,8,Valence,0.20
+0,9,Valence,0.52
+1,2,Valence,0.16
+1,3,Valence,0.38
+1,4,Valence,0.08
+1,5,Valence,0.21
+1,6,Valence,0.15
+1,7,Valence,0.26
+1,8,Valence,0.19
+1,9,Valence,0.24
+2,3,Valence,0.47
+2,4,Valence,0.02
+2,5,Valence,0.13
+2,6,Valence,0.39
+2,7,Valence,0.38
+2,8,Valence,0.09
+2,9,Valence,0.24
+3,4,Valence,0.08
+3,5,Valence,0.21
+3,6,Valence,0.52
+3,7,Valence,0.47
+3,8,Valence,0.20
+3,9,Valence,0.52
+4,5,Valence,0.21
+4,6,Valence,0.04
+4,7,Valence,0.02
+4,8,Valence,0.16
+4,9,Valence,0.06
+5,6,Valence,0.13
+5,7,Valence,0.09
+5,8,Valence,0.26
+5,9,Valence,0.16
+6,7,Valence,0.34
+6,8,Valence,0.12
+6,9,Valence,0.47
+7,8,Valence,0.09
+7,9,Valence,0.22
+8,9,Valence,0.19
+0,1,Tempo,0.60
+0,2,Tempo,0.57
+0,3,Tempo,0.88
+0,4,Tempo,0.17
+0,5,Tempo,0.33
+0,6,Tempo,0.84
+0,7,Tempo,0.52
+0,8,Tempo,0.54
+0,9,Tempo,0.61
+1,2,Tempo,0.36
+1,3,Tempo,0.60
+1,4,Tempo,0.23
+1,5,Tempo,0.45
+1,6,Tempo,0.58
+1,7,Tempo,0.34
+1,8,Tempo,0.70
+1,9,Tempo,0.73
+2,3,Tempo,0.64
+2,4,Tempo,0.09
+2,5,Tempo,0.23
+2,6,Tempo,0.56
+2,7,Tempo,0.84
+2,8,Tempo,0.35
+2,9,Tempo,0.42
+3,4,Tempo,0.16
+3,5,Tempo,0.32
+3,6,Tempo,0.87
+3,7,Tempo,0.54
+3,8,Tempo,0.51
+3,9,Tempo,0.54
+4,5,Tempo,0.46
+4,6,Tempo,0.15
+4,7,Tempo,0.08
+4,8,Tempo,0.31
+4,9,Tempo,0.18
+5,6,Tempo,0.31
+5,7,Tempo,0.19
+5,8,Tempo,0.60
+5,9,Tempo,0.35
+6,7,Tempo,0.53
+6,8,Tempo,0.47
+6,9,Tempo,0.56
+7,8,Tempo,0.32
+7,9,Tempo,0.38
+8,9,Tempo,0.58
+0,1,Time Signature,0.66
+0,2,Time Signature,0.49
+0,3,Time Signature,0.89
+0,4,Time Signature,0.16
+0,5,Time Signature,0.35
+0,6,Time Signature,0.90
+0,7,Time Signature,0.55
+0,8,Time Signature,0.47
+0,9,Time Signature,0.60
+1,2,Time Signature,0.41
+1,3,Time Signature,0.61
+1,4,Time Signature,0.23
+1,5,Time Signature,0.49
+1,6,Time Signature,0.63
+1,7,Time Signature,0.41
+1,8,Time Signature,0.71
+1,9,Time Signature,0.73
+2,3,Time Signature,0.61
+2,4,Time Signature,0.10
+2,5,Time Signature,0.22
+2,6,Time Signature,0.61
+2,7,Time Signature,0.75
+2,8,Time Signature,0.28
+2,9,Time Signature,0.34
+3,4,Time Signature,0.15
+3,5,Time Signature,0.34
+3,6,Time Signature,0.95
+3,7,Time Signature,0.57
+3,8,Time Signature,0.44
+3,9,Time Signature,0.54
+4,5,Time Signature,0.47
+4,6,Time Signature,0.16
+4,7,Time Signature,0.09
+4,8,Time Signature,0.32
+4,9,Time Signature,0.18
+5,6,Time Signature,0.35
+5,7,Time Signature,0.19
+5,8,Time Signature,0.64
+5,9,Time Signature,0.38
+6,7,Time Signature,0.55
+6,8,Time Signature,0.47
+6,9,Time Signature,0.55
+7,8,Time Signature,0.29
+7,9,Time Signature,0.37
+8,9,Time Signature,0.50

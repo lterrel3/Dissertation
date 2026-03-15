@@ -1,0 +1,581 @@
+artists,occurrence,freqency
+"Billie Eilish",36,2.769231
+"Gracie Abrams",8,0.615385
+"Harry Styles",6,0.461538
+"Taylor Swift",73,5.615385
+"Phoebe Bridgers",22,1.692308
+"Sufjan Stevens",2,0.153846
+"Conan Gray",5,0.384615
+"Madison Beer",3,0.230769
+"Delaney Bailey",1,0.076923
+"Billy Joel",2,0.153846
+"Manchester Orchestra,Phoebe Bridgers",2,0.153846
+"boygenius,Julien Baker,Phoebe Bridgers,Lucy Dacus",4,0.307692
+"Taylor Swift,Phoebe Bridgers",3,0.230769
+"Lana Del Rey",17,1.307692
+"Taylor Swift,Bon Iver",2,0.153846
+"Lizzy McAlpine",1,0.076923
+"Hozier",2,0.153846
+"Olivia Rodrigo",14,1.076923
+"girl in red",1,0.076923
+"Ashe,FINNEAS",1,0.076923
+"Cyn",1,0.076923
+"Wasia Project",1,0.076923
+"Orla Gartland",1,0.076923
+"Lizzy McAlpine,FINNEAS",1,0.076923
+"Lewis Capaldi",2,0.153846
+"Jeremy Zucker,Chelsea Cutler",1,0.076923
+"James Arthur",1,0.076923
+"Noah Cyrus",1,0.076923
+"Hailee Steinfeld",3,0.230769
+"Labrinth",1,0.076923
+"Freya Ridings",3,0.230769
+"Rihanna",20,1.538462
+"Camila Cabello",3,0.230769
+"Selena Gomez",6,0.461538
+"Bon Iver,St. Vincent",1,0.076923
+"Cigarettes After Sex",1,0.076923
+"Iron & Wine",1,0.076923
+"The 1975",1,0.076923
+"Daughter",1,0.076923
+"London Grammar",1,0.076923
+"The Smiths",1,0.076923
+"Joji",1,0.076923
+"RY X",2,0.153846
+"Måneskin",1,0.076923
+"Coldplay",2,0.153846
+"Labrinth,Zendaya",2,0.153846
+"Lana Del Rey,Bleachers",1,0.076923
+"Novo Amor",3,0.230769
+"Lana Del Rey,Father John Misty",1,0.076923
+"Lana Del Rey,SYML",2,0.153846
+"Djo",1,0.076923
+"Ariana Grande",55,4.230769
+"Mitski",2,0.153846
+"Richy Mitch & The Coal Miners",1,0.076923
+"Sabrina Carpenter",14,1.076923
+"Aqua",9,0.692308
+"Madonna",10,0.769231
+"Julie Brown",1,0.076923
+"Meghan Trainor",7,0.538462
+"The Go-Go's",2,0.153846
+"Barbie,Mattel",5,0.384615
+"Carly Rae Jepsen",9,0.692308
+"Hoku",4,0.307692
+"Vengaboys",4,0.307692
+"Lipps Inc.",1,0.076923
+"Hilary Duff",5,0.384615
+"Stacey Q",1,0.076923
+"Ashley Tisdale",1,0.076923
+"Spice Girls",8,0.615385
+"Atomic Kitten",2,0.153846
+"Blondie",2,0.153846
+"Girls Aloud",2,0.153846
+"Olivia Newton-John",2,0.153846
+"Lolly",3,0.230769
+"Aly & AJ",2,0.153846
+"Trixie Mattel",1,0.076923
+"Bubbles",1,0.076923
+"Toy-Box",1,0.076923
+"Chipz",1,0.076923
+"WANNABOO MUSIC",1,0.076923
+"Victorious Cast,Victoria Justice",1,0.076923
+"Pixie Lott",1,0.076923
+"A*Teens",1,0.076923
+"Grace Potter",1,0.076923
+"Elisa Rosselli",1,0.076923
+"BG5",1,0.076923
+"S Club",1,0.076923
+"Jessica Simpson",1,0.076923
+"Beyond Pink",1,0.076923
+"Fifth Harmony",7,0.538462
+"Lizzo",16,1.230769
+"Dua Lipa",21,1.615385
+"Nicki Minaj,Ice Spice,Aqua",5,0.384615
+"Charli xcx",20,1.538462
+"KAROL G,Aldo Ranks",3,0.230769
+"Tame Impala",2,0.153846
+"Dominic Fike",2,0.153846
+"HAIM",2,0.153846
+"The Kid LAROI",2,0.153846
+"Khalid",2,0.153846
+"PinkPantheress",5,0.384615
+"GAYLE",2,0.153846
+"Ava Max",9,0.692308
+"FIFTY FIFTY,Kaliii",3,0.230769
+"Anitta",1,0.076923
+"Kim Petras",3,0.230769
+"Kesha,The Dap-Kings Horns",2,0.153846
+"Peach PRC",2,0.153846
+"Toni Basil",1,0.076923
+"Baccara",1,0.076923
+"Britney Spears",42,3.230769
+"The Turtles",1,0.076923
+"Tiffany",1,0.076923
+"Sophie Ellis-Bextor",2,0.153846
+"Grandzz",1,0.076923
+"Ryan Gosling",4,0.307692
+"Sam Smith",2,0.153846
+"Brandi Carlile,Catherine Carlile",1,0.076923
+"Mark Ronson,Andrew Wyatt,Molly Lewis",1,0.076923
+"Mark Ronson,Andrew Wyatt",3,0.230769
+"Ryan Gosling,Mark Ronson",1,0.076923
+"Cyndi Lauper",3,0.230769
+"Indigo Girls",1,0.076923
+"Matchbox Twenty",1,0.076923
+"Destiny's Child",14,1.076923
+"Bee Gees",1,0.076923
+"Christina Aguilera,Lil' Kim,Mýa,P!nk",2,0.153846
+"Doja Cat",28,2.153846
+"Deniece Williams",2,0.153846
+"John Travolta,Olivia Newton-John",1,0.076923
+"Tevin Campbell,Rosie Gaines",1,0.076923
+"Prince",1,0.076923
+"Aaliyah",6,0.461538
+"Eric B. & Rakim",1,0.076923
+"DeBarge",1,0.076923
+"Dolly Parton",1,0.076923
+"Roxette",1,0.076923
+"Bajton",1,0.076923
+"Michael McDonald",1,0.076923
+"Berlin",1,0.076923
+"Nicki Minaj",27,2.076923
+"BLACKPINK,Selena Gomez",2,0.153846
+"Lady Gaga,Ariana Grande",2,0.153846
+"ALTÉGO",1,0.076923
+"Little Mix",8,0.615385
+"Sharpay Evans,Ryan,Disney",2,0.153846
+"Doja Cat,SZA",5,0.384615
+"Pharrell Williams,Camila Cabello",1,0.076923
+"Katy Perry,Snoop Dogg",4,0.307692
+"Hannah Montana",8,0.615385
+"Iggy Azalea,Charli xcx",1,0.076923
+"Dua Lipa,BLACKPINK",1,0.076923
+"No Doubt",3,0.230769
+"Diana Ross",2,0.153846
+"Bella Thorne,Zendaya",1,0.076923
+"David Guetta,Rihanna",1,0.076923
+"Paris Hilton",3,0.230769
+"Miley Cyrus",7,0.538462
+"MARINA",13,1.000000
+"will.i.am,Nicki Minaj",1,0.076923
+"Britney Spears,Iggy Azalea",2,0.153846
+"Demi Lovato",10,0.769231
+"Lizzo,Ariana Grande",1,0.076923
+"BTS,Halsey",2,0.153846
+"Marshmello,Halsey",1,0.076923
+"Charli xcx,Troye Sivan",1,0.076923
+"Kali Uchis",4,0.307692
+"KAROL G,Nicki Minaj",1,0.076923
+"Lady Gaga,BLACKPINK",1,0.076923
+"Jennifer Lopez,Pitbull",3,0.230769
+"Melanie Martinez",4,0.307692
+"Sabrina",1,0.076923
+"Kelis",4,0.307692
+"Halsey",1,0.076923
+"Lady Gaga",22,1.692308
+"Danna Paola",1,0.076923
+"Ariana Grande,Zedd",1,0.076923
+"Gwen Stefani",4,0.307692
+"WILLOW",4,0.307692
+"ABBA",1,0.076923
+"Katy Perry",14,1.076923
+"Keri Hilson",4,0.307692
+"Saweetie",5,0.384615
+"Nicki Minaj,Rihanna",1,0.076923
+"Beyoncé",18,1.384615
+"Nicki Minaj,Drake",2,0.153846
+"The Pussycat Dolls",9,0.692308
+"Shakira,Wyclef Jean",2,0.153846
+"Gwen Stefani,Akon",2,0.153846
+"Christina Aguilera",4,0.307692
+"Avril Lavigne",4,0.307692
+"Lil Mama",2,0.153846
+"The Pussycat Dolls,Busta Rhymes",5,0.384615
+"Rihanna,JAY-Z",1,0.076923
+"Rihanna,Drake",2,0.153846
+"Kesha",5,0.384615
+"Fergie",4,0.307692
+"Azealia Banks",2,0.153846
+"Nelly Furtado",5,0.384615
+"Destiny's Child,T.I.,Lil Wayne",1,0.076923
+"Fergie,Ludacris",5,0.384615
+"Gwen Stefani,Eve",3,0.230769
+"Kelly Clarkson",2,0.153846
+"SZA",7,0.538462
+"FKA twigs",1,0.076923
+"Lucy Dacus",1,0.076923
+"Katie Gregson-MacLeod",2,0.153846
+"The National,Taylor Swift",1,0.076923
+"Florence + The Machine",1,0.076923
+"Zeph",1,0.076923
+"Lennon Stella",1,0.076923
+"Kacey Musgraves",3,0.230769
+"Maisie Peters",1,0.076923
+"NIKI",1,0.076923
+"Phoebe Bridgers,Noah Gundersen,Abby Gundersen",1,0.076923
+"RuPaul",5,0.384615
+"Ariana Grande,Miley Cyrus,Lana Del Rey",1,0.076923
+"Fergie,will.i.am",3,0.230769
+"Kat Deluna,Elephant Man",1,0.076923
+"LMFAO",1,0.076923
+"Beyoncé,JAY-Z",1,0.076923
+"SAYGRACE,G-Eazy",1,0.076923
+"Sam Smith,Normani",1,0.076923
+"Natasha Bedingfield",3,0.230769
+"M.I.A.",3,0.230769
+"Black Eyed Peas",2,0.153846
+"Mariah Carey",7,0.538462
+"Jennifer Lopez,Iggy Azalea",1,0.076923
+"Cher",2,0.153846
+"Whitney Houston,Chris Cox,Barry Harris",1,0.076923
+"Scissor Sisters",1,0.076923
+"Cardi B",10,0.769231
+"Nicola Fasano,Pat-Rich",1,0.076923
+"Monique Heart",1,0.076923
+"Alexandra Stan",2,0.153846
+"The Bucketheads",1,0.076923
+"Charli xcx,Billie Eilish",1,0.076923
+"Saucy Santana",1,0.076923
+"Chappell Roan",7,0.538462
+"CeCe Peniston",1,0.076923
+"Jogger,Keenhouse",1,0.076923
+"Troye Sivan",3,0.230769
+"Janet Jackson",1,0.076923
+"Lil Nas X,Doja Cat",2,0.153846
+"Doja Cat,Gucci Mane",2,0.153846
+"Cardi B,Megan Thee Stallion",3,0.230769
+"Jessie J,Ariana Grande,Nicki Minaj",3,0.230769
+"Lady Gaga,Beyoncé",1,0.076923
+"Calvin Harris,Dua Lipa",1,0.076923
+"Katy Perry,Nicki Minaj",1,0.076923
+"Billy Porter",1,0.076923
+"Salt-N-Pepa",1,0.076923
+"Ariana Grande,Nicki Minaj",1,0.076923
+"AlunaGeorge",1,0.076923
+"Whitney Houston",4,0.307692
+"Technotronic",1,0.076923
+"Megan Thee Stallion",8,0.615385
+"Haddaway",1,0.076923
+"Kelly Rowland,Eve",3,0.230769
+"Eve",3,0.230769
+"High School Musical Cast,Ashley Tisdale,Lucas Grabeel,Disney",1,0.076923
+"Selena Gomez & The Scene",3,0.230769
+"Nelly Furtado,Timbaland",3,0.230769
+"Timbaland,Keri Hilson,D.O.E.",1,0.076923
+"City Girls",2,0.153846
+"Cardi B,SZA",1,0.076923
+"Bhad Bhabie,Kodak Black",1,0.076923
+"Megan Thee Stallion,DaBaby",1,0.076923
+"Nicki Minaj,Beyoncé",1,0.076923
+"Cardi B,YG",1,0.076923
+"Cardi B,21 Savage",1,0.076923
+"Ariana Grande,Victoria Monét",1,0.076923
+"TLC",3,0.230769
+"Missy Elliott",4,0.307692
+"Tinashe,ScHoolboy Q",1,0.076923
+"Pretty Taking All Fades",1,0.076923
+"Kehlani",1,0.076923
+"SZA,Travis Scott",1,0.076923
+"Madison Beer,Offset",1,0.076923
+"Janelle Monáe",1,0.076923
+"Lady Leshurr",1,0.076923
+"Demi Lovato,Cher Lloyd",1,0.076923
+"Star Cast",2,0.153846
+"Maggie Lindemann",1,0.076923
+"Nicki Minaj,Drake,Lil Wayne,Chris Brown",1,0.076923
+"Beyoncé,The Weeknd",1,0.076923
+"Beyoncé,Chimamanda Ngozi Adichie",1,0.076923
+"Beyoncé,Nicki Minaj",1,0.076923
+"Star Cast,Jude Demorest",1,0.076923
+"Doja Cat,Rico Nasty",1,0.076923
+"Kelly Rowland",2,0.153846
+"Cardi B,Bad Bunny,J Balvin",1,0.076923
+"N.E.R.D,Rihanna",1,0.076923
+"Cardi B,Bruno Mars",1,0.076923
+"Nicki Minaj,Ariana Grande",1,0.076923
+"Flo Milli",5,0.384615
+"Saweetie,GALXARA",1,0.076923
+"Doja Cat,Tyga",1,0.076923
+"Mýa,Tink",1,0.076923
+"Normani",3,0.230769
+"Ciara,Chamillionaire",1,0.076923
+"Saweetie,Doja Cat",2,0.153846
+"Ashnikko,Princess Nokia",1,0.076923
+"Normani,Cardi B",1,0.076923
+"Chlöe",1,0.076923
+"Lil Nas X",3,0.230769
+"Lizzo,Cardi B",1,0.076923
+"Chloe x Halle",3,0.230769
+"Lil Nas X,Jack Harlow",2,0.153846
+"Doja Cat,The Weeknd",1,0.076923
+"Mýa",1,0.076923
+"Eve,Gwen Stefani",1,0.076923
+"Blu Cantrell",1,0.076923
+"Ciara,Missy Elliott",1,0.076923
+"702",1,0.076923
+"Amerie",1,0.076923
+"Ciara,Petey Pablo",1,0.076923
+"Monica",1,0.076923
+"Keyshia Cole",1,0.076923
+"Keri Hilson,J. Cole",1,0.076923
+"Toni Braxton",1,0.076923
+"Christina Milian",1,0.076923
+"Tweet,Missy Elliott",1,0.076923
+"Ciara,Ludacris",1,0.076923
+"Teyana Taylor",1,0.076923
+"Lil' Kim,Angie Martinez,Lisa Left Eye Lopes,Da Brat,Missy Elliott",1,0.076923
+"Sunshine Anderson",1,0.076923
+"Amerie,Eve",1,0.076923
+"Nicole,Missy Elliott,mocha",1,0.076923
+"Danity Kane",1,0.076923
+"Lil' Kim",1,0.076923
+"Missy Elliott,Ludacris",1,0.076923
+"Missy Elliott,Da Brat",1,0.076923
+"3LW",1,0.076923
+"Kelis,Too $hort",1,0.076923
+"StarBoi3,Doja Cat",1,0.076923
+"Bebe Rexha,Nicki Minaj",1,0.076923
+"Jazmine Sullivan",2,0.153846
+"Star Cast,Ryan Destiny",1,0.076923
+"Summer Walker,JT,City Girls",1,0.076923
+"JoJo",1,0.076923
+"Summer Walker,Cardi B",1,0.076923
+"Mary J. Blige",1,0.076923
+"Megan Thee Stallion,SZA",1,0.076923
+"Cardi B,Migos",1,0.076923
+"BIA",2,0.153846
+"Ariana Grande,Doja Cat",1,0.076923
+"Ariana Grande,Doja Cat,Megan Thee Stallion",1,0.076923
+"Saucy Santana,City Girls",1,0.076923
+"Summer Walker",1,0.076923
+"Summer Walker,SZA",1,0.076923
+"Summer Walker,Pharrell Williams,The Neptunes",1,0.076923
+"Remy Ma",1,0.076923
+"P!nk",4,0.307692
+"Aaliyah,Timbaland",1,0.076923
+"Kayla Nicole,Taylor Girlz",1,0.076923
+"Saweetie,Jhené Aiko,City Girls",1,0.076923
+"Kali Uchis,SZA",1,0.076923
+"Rico Nasty",1,0.076923
+"DeJ Loaf",1,0.076923
+"Lil Nas X,Megan Thee Stallion",1,0.076923
+"Mila J",1,0.076923
+"Chloe x Halle,Doja Cat,City Girls,Latto",1,0.076923
+"Megan Thee Stallion,Dua Lipa",1,0.076923
+"Doja Cat,JID",1,0.076923
+"Big Boss Vette",1,0.076923
+"Ariana Grande,Future",1,0.076923
+"Kevin Jz Prodigy",1,0.076923
+"Beyoncé,Kendrick Lamar",1,0.076923
+"BLACKPINK",3,0.230769
+"Kesha,3OH!3",1,0.076923
+"Victoria Monét",1,0.076923
+"SNAP!",1,0.076923
+"La Bouche",1,0.076923
+"Edward Maya,Vika Jigulina",1,0.076923
+"Nicki Minaj,Lil Uzi Vert",1,0.076923
+"Dua Lipa,Angèle",1,0.076923
+"Doja Cat,Nicki Minaj",1,0.076923
+"Justin Bieber",1,0.076923
+"Aliyah's Interlude",2,0.153846
+"Taylor Swift,Kendrick Lamar",1,0.076923
+"The Cardigans",2,0.153846
+"RAYE,070 Shake",2,0.153846
+"GloRilla",1,0.076923
+"The Cheetah Girls",1,0.076923
+"Elton John,Britney Spears",1,0.076923
+"Nicki Minaj,Eminem",1,0.076923
+"KAROL G",1,0.076923
+"Migos,Nicki Minaj,Cardi B",1,0.076923
+"The Weeknd",1,0.076923
+"PARTYNEXTDOOR",1,0.076923
+"Ariana Grande,Pharrell Williams",1,0.076923
+"Cassie",1,0.076923
+"Chase Atlantic",3,0.230769
+"SyKo",1,0.076923
+"BJ Lips,princess paparazzi",1,0.076923
+"Britney Manson",1,0.076923
+"lilster",3,0.230769
+"Clairo",3,0.230769
+"The Neighbourhood",11,0.846154
+"Ari Abdul",1,0.076923
+"d4vd",1,0.076923
+"Jesse®",2,0.153846
+"Dayglow",1,0.076923
+"Arctic Monkeys",1,0.076923
+"Precious Pepala",5,0.384615
+"Beach Weather",1,0.076923
+"PVRIS,070 Shake",1,0.076923
+"ECÂF",1,0.076923
+"Hotel Ugly",1,0.076923
+"undefined",1,0.076923
+"Ayla D'lyla,Miss Madeline",1,0.076923
+"Studio Killers",1,0.076923
+"The Aquadolls",1,0.076923
+"Lily Allen",2,0.153846
+"That Kid",1,0.076923
+"Zella Day",3,0.230769
+"Kylie Minogue",6,0.461538
+"Coco & Clair Clair",5,0.384615
+"FLETCHER,Hayley Kiyoko",1,0.076923
+"Selena Gomez,A$AP Rocky",1,0.076923
+"Rina Sawayama,Bree Runway",1,0.076923
+"Sky Ferreira",2,0.153846
+"Sohodolls",1,0.076923
+"Samantha Ronson",1,0.076923
+"Cute Is What We Aim For",1,0.076923
+"mgk,WILLOW",1,0.076923
+"Caroline Loveglow",1,0.076923
+"Men I Trust",1,0.076923
+"Lorde",2,0.153846
+"The Weeknd,Lana Del Rey",1,0.076923
+"Play",2,0.153846
+"SIRLIFIS MG",1,0.076923
+"SirLofi",1,0.076923
+"Yumi Zouma",1,0.076923
+"Geowulf",1,0.076923
+"Alice Phoebe Lou",1,0.076923
+"Caroline Rose",1,0.076923
+"CHROMANCE,Marcus Layton",1,0.076923
+"Phoebe Ryan",1,0.076923
+"L'Impératrice",1,0.076923
+"Tessa Violet",1,0.076923
+"Grace Phipps",3,0.230769
+"The Orion Experience,ORION,Linda XO",1,0.076923
+"Tyga,Doja Cat",1,0.076923
+"Jack Harlow",1,0.076923
+"MARINA,Beach Bunny",1,0.076923
+"EASHA",1,0.076923
+"Blu DeTiger",2,0.153846
+"TOPS",1,0.076923
+"Zendaya",1,0.076923
+"MIKA,Ariana Grande",1,0.076923
+"Boys World",1,0.076923
+"Chelsea Collins",1,0.076923
+"Hayley Kiyoko",1,0.076923
+"Jesse McCartney",1,0.076923
+"DCS Lefty,Teddi Gold",1,0.076923
+"Call Me Loop",1,0.076923
+"Lindsay Lohan",2,0.153846
+"Selena Gomez,Gucci Mane",1,0.076923
+"Poppy",1,0.076923
+"EMELINE",2,0.153846
+"Gorillaz",1,0.076923
+"Alice Chater",1,0.076923
+"The Click Five",3,0.230769
+"MIXIE",2,0.153846
+"Halle Abadi",1,0.076923
+"Em Beihold",1,0.076923
+"Amaarae,Kali Uchis,MOLIY",1,0.076923
+"Raffaella",2,0.153846
+"Cascada",2,0.153846
+"Josie and the Pussycats",1,0.076923
+"Chrissy Chlapecka",1,0.076923
+"Magdalena Bay",1,0.076923
+"The Band CAMINO",1,0.076923
+"April Start",1,0.076923
+"PinkPantheress,Ice Spice",1,0.076923
+"KAYE",1,0.076923
+"Snow Wife",1,0.076923
+"Virgin Miri",2,0.153846
+"City Girl,tiffi",1,0.076923
+"Holy Molly",1,0.076923
+"Reneé Rapp,Megan Thee Stallion",1,0.076923
+"Sia,Kylie Minogue",1,0.076923
+"Suki Waterhouse",1,0.076923
+"Doja Cat;SZA",1,0.076923
+"Nancy Sinatra",1,0.076923
+"The Muffs",1,0.076923
+"Britney Spears;Tinashe",1,0.076923
+"Ashley O",2,0.153846
+"Gwen Stefani;Eve",1,0.076923
+"Jill Sobule",1,0.076923
+"BTS;Halsey",1,0.076923
+"Emily Browning;Stuart Murdoch;Belle and Sebastian",1,0.076923
+"The Wonders",1,0.076923
+"The Beach Boys",2,0.153846
+"Cass Elliot",1,0.076923
+"Sixpence None The Richer",1,0.076923
+"Sheryl Crow",1,0.076923
+"Dua Lipa;BLACKPINK",1,0.076923
+"Beyoncé;JAŸ-Z",2,0.153846
+"The Pussycat Dolls;Busta Rhymes",1,0.076923
+"Lana Del Rey;Stevie Nicks",1,0.076923
+"Lady Gaga;Florence Welch",1,0.076923
+"Glee Cast",6,0.461538
+"Katy Perry;Snoop Dogg",1,0.076923
+"Gwen Stefani;Akon",1,0.076923
+"Sharpay Evans;Lucas Grabeel;Disney",1,0.076923
+"The Weather Girls",1,0.076923
+"Superchick",1,0.076923
+"Fifth Harmony;Kid Ink",1,0.076923
+"Annaleigh Ashford;Delta Nus;Dequina Moore;Laura Bell Bundy;Leslie Kritzer",1,0.076923
+"Beyoncé;Sean Paul",1,0.076923
+"Nelly Furtado;Timbaland",1,0.076923
+"Fergie;Ludacris",1,0.076923
+"Nelly;City Spud",1,0.076923
+"Vanessa Carlton",1,0.076923
+"Shakira",1,0.076923
+"Cobra Starship;Leighton Meester",1,0.076923
+"Taylor Dayne",1,0.076923
+"Sara Paxton",1,0.076923
+"Teitur",1,0.076923
+"Courtney Jaye",1,0.076923
+"Nikki Cleary",1,0.076923
+"Naomi Scott",1,0.076923
+"Robbie Williams",1,0.076923
+"Donna Summer;Gigamesh",1,0.076923
+"The Cure",1,0.076923
+"Alphabeat",1,0.076923
+"The Romantics",1,0.076923
+"fun.;Janelle Monáe",1,0.076923
+"Weezer",1,0.076923
+"Katrina & The Waves",1,0.076923
+"Doja Cat;Gucci Mane",1,0.076923
+"Tal Bachman",1,0.076923
+"The La's",1,0.076923
+"Grace Mitchell",1,0.076923
+"Fergie;will.i.am",1,0.076923
+"DoM",1,0.076923
+"Tavares",1,0.076923
+"Donna Summer",1,0.076923
+"The Undertones",1,0.076923
+"Chaka Khan",1,0.076923
+"I5",1,0.076923
+"Kelly",1,0.076923
+"Coco Jones",1,0.076923
+"Nicki Minaj;Ice Spice;Aqua",1,0.076923
+"KAROL G;Aldo Ranks",1,0.076923
+"FIFTY FIFTY;Kaliii",1,0.076923
+"Eddie Murphy",1,0.076923
+"Glee Cast;Gwyneth Paltrow",1,0.076923
+"Dove Cameron",1,0.076923
+"Barbie;Mattel",1,0.076923
+"Lindana",1,0.076923
+"Kate Alexa",1,0.076923
+"Maggie Rogers",1,0.076923
+"Myra",1,0.076923
+"Mark Ronson;Andrew Wyatt",1,0.076923
+"Brandi Carlile;Catherine Carlile",1,0.076923
+"Lesley Gore",1,0.076923
+"The Bangles;Susanna Hoffs",1,0.076923
+"salem ilese",1,0.076923
+"Hey Monday",1,0.076923
+"PinkPantheress;Zara Larsson",1,0.076923
+"dodie",1,0.076923
+"Juliana Chahayed",1,0.076923
+"Billie Eilish,Khalid",1,0.076923
+"Aqua,Tiësto",1,0.076923
+"FIFTY FIFTY",1,0.076923
+"Zara Larsson",5,0.384615
+"TWICE",1,0.076923
+"Madonna,Justin Timberlake,Timbaland",1,0.076923
+"Little Mix,mgk",1,0.076923
+"Taylor Swift,ELVIRA",1,0.076923
+"Kylie Minogue,Olly Alexander (Years & Years)",1,0.076923
+"Kris Kross Amsterdam,Sofía Reyes,Tinie Tempah",1,0.076923
+"Lady Gaga,Colby O'Donis",1,0.076923
+"Britney Spears,Madonna",1,0.076923
+"Becky G",1,0.076923
+"IVE",1,0.076923

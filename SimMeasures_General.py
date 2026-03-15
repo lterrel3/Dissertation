@@ -166,7 +166,7 @@ if __name__ == '__main__':
     reddit = load_playlists('reddit')
     whiterun = load_playlists('whiterun')
     rtg = load_playlists('roadtripgenre')
-    singalong = load_playlists('singalong')
+    singalong = load_playlists('singalonggenre')
     
     #create a dictionary of playlists separated into different entries from a subpath
     dict_barb = merge_dicts([barbie, barbenheimer, oppenheimer])

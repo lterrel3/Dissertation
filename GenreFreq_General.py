@@ -76,9 +76,9 @@ if __name__ == '__main__':
   pl_dicts = [barbie_pls, bh_pls, op_pls, dms_pls, reddit_pls, whiterun_pls, rtg_pls, singalong_pls]
 
   #generate genre occurence and write genre report for all individual playlists
-  #for pl_dict in pl_dicts:
-    #for pl, name in zip(pl_dict.values(), pl_dict.keys()):
-        #write_report(get_genre_oc(pl), title='%s Genre Report'%(name))
+  for pl_dict in pl_dicts:
+    for pl, name in zip(pl_dict.values(), pl_dict.keys()):
+      write_report(get_genre_oc(pl), title='%s Genre Report'%(name))
 
   #create 1 df for each playlist type
   all_barbie = merge_playlists(barbie_pls)

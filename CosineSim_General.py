@@ -55,7 +55,7 @@ if __name__ == '__main__':
   whiterun = load_playlists('whiterun')
 
   rtg = load_playlists('roadtripgenre')
-  singalong = load_playlists('singalong')
+  singalong = load_playlists('singalonggenre')
 
   pl_lists = [barbenheimer, barbie, oppenheimer, dms, reddit, whiterun, rtg, singalong]
   names = ['Barbenheimer', 'Barbie', 'Oppenheimer', 'DMs', 'Reddit', 'Whiterun', 'Road Trip Genre', 'Sing Along']
