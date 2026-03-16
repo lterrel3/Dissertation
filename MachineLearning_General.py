@@ -64,7 +64,8 @@ def merge_playlists(pl_dict, num):
 
 def GNB(df, title):
       #clean data
-      dataframe = df.loc[:, ['Danceability', 'Energy', 'Key', 'Loudness', 'Mode', 'Speechiness', 'Acousticness', 'Instrumentalness', 'Liveness', 'Valence', 'Tempo', 'Time Signature', 'type']]
+      dataframe = df.loc[:, ['Danceability', 'Energy', 'Key', 'Loudness', 'Mode', 'Speechiness', 'Acousticness', 'Instrumentalness', 
+                             'Liveness', 'Valence', 'Tempo', 'Time Signature', 'type']]
       dataframe1 = dataframe.dropna()
       dataset = np.array(dataframe1)
 
@@ -222,5 +223,5 @@ if __name__ == '__main__':
         #run KNN
         print(KNN(set, title, 12))
         #run Kbest where k is 1 through 12
-        for i in range(1, 6):
+        for i in range(1, 12):
             print(Kbest(set, title, i))
