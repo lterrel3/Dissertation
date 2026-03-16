@@ -214,7 +214,7 @@ if __name__ == '__main__':
   all_sets = [barbenheimerxbarbie, barbenheimerxoppenheimer, barbiexoppenheimer, allbarbplaylists, 
               dmsxwhiterun, redditxwhiterun, functions, genres, years]
   all_titles = ['Barbenheimer and Barbie', 'Barbenheimer and Oppenheimer', 'Barbie and Oppenheimer', 'All Barbenheimer Playlists',
-                'DMs and Reddit', 'DMs and Whiterun', 'Reddit and Whiterun', 'All D&D Playlists', 'F Groups', 'G Groups', 'Y Groups']
+                'DMs and Whiterun', 'Reddit and Whiterun', 'F Groups', 'G Groups', 'Y Groups']
 
   #for each dataset (set), using its comparison title (title)
   for set, title in zip(all_sets, all_titles):
